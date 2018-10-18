@@ -10,7 +10,7 @@
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Laura Hilton, Miguel Alcaide
-  photo: FCGR2B_cropped.png
+  photo: projects/FCGR2B_cropped.png
 
 - name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
   description: >
@@ -18,7 +18,7 @@
   funding: Terry Fox Research Institute
   collaborators: Marco Marra, David Scott, Diego Villa
   assignees: Prasath Pararajalingam
-  photo: mcl_oncoplot.png
+  photo: projects/mcl_oncoplot.png
 
 - name: Identification and functional characterization of recurrent non-coding mutations in non-Hodgkin lymphomas
   description: >
@@ -28,7 +28,7 @@
   funding: Terry Fox Research Institute, CIHR
   collaborators: Christian Steidl, David Scott
   assignees: Sarah Arthur, Krysta Coyle
-  photo: NFKBIZ_overview_cropped.png
+  photo: projects/NFKBIZ_overview_cropped.png
 
 - name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
   description: >
@@ -36,6 +36,6 @@
   funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
   collaborators: Marco Marra, Louis Staudt
   assignees: Bruno Grande
-  photo: mcl_oncoplot.png
+  photo: projects/mcl_oncoplot.png
 
   
