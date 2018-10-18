@@ -5,8 +5,8 @@ email: rdmorin@sfu.ca
 description: >
   This research lab specializes in science and makes
   novel discoveries with translational impact.
-baseurl: "/guild"
-url: "http://bgran.de/guild"
+baseurl: "/"
+url: "https://morinlab.github.io"
 twitter_username: morinryan
 github_username:  morinlab
 images_dir: "/images/"
