@@ -60,7 +60,7 @@
     Her thesis project involved a meta-analysis of published and in-house 
     exome data to identify new recurrently-mutated genes in MCL including 
     a novel silent mutation hot spot in MAP3K14. 
-  photo: team/sally.jpg
+  photo: team/amohajeri.jpg
 
 - name: Dr. Miguel Alcaide
   is_pi: False
@@ -97,11 +97,18 @@
   is_current: True
   position: PhD Student
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+    My project in the lab is focused on the characterization of novel 
+    NFKBIZ 3’ UTR mutations we previously discovered in DLBCL. 
+    These mutations were discovered through a project searching for 
+    genome-wide non-coding mutations and found to be significantly 
+    enriched in the ABC sub-type of DLBCL. 
+    My research involves functional analysis of these mutations in 
+    DLBCL cell lines and in vivo mouse xenograft models to determine 
+    how these mutations lead to activation of the NF-kB pathway and 
+    contribute to DLBCL. 
+    I am also working to determine the structure of the NFKBIZ 3’ UTR 
+    and how mutations lead to changes that affect the regulation of 
+    this gene.
   photo: team/sarthur.jpg
 
 - name: Dr. Krysta Coyle
@@ -114,7 +121,7 @@
     Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
     Morbi a turpis ipsum. 
     Fusce ultricies justo non ligula semper quis gravida leo sodales.
-  photo: team/tom.jpg
+  photo: team/kcoyle.jpg
 
 
 - name: Bruno Grande
@@ -122,11 +129,21 @@
   is_current: True
   position: PhD Student
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+    As the first bioinformatics graduate student in the lab, I've played 
+    a role in several projects, each involving cancer genomics to some 
+    degree.
+    Currently, my primary project is the genetic and molecular 
+    characterization of paediatric Burkitt lymphoma (BL).
+    Defined by an epidemiological association with the Epstein–Barr virus
+    and malaria, the endemic variant of BL has been understudied compared
+    to sporadic BL, which is diagnosed in developed countries.
+    I lead the analysis of whole genome and transcriptome sequencing data 
+    derived from over 100 cases, which has led to breakthroughs in our 
+    understanding of BL pathogenesis.
+    On the side, I'm an advocate for open and reproducible science, a
+    Software Carpentry instructor teaching programming to researchers, 
+    and the co-founder of the Scientific Programming Study Group at SFU 
+    (SciProg.ca) and the annual Hackseq genomics hackathon.
   photo: team/bgrande.jpg
 
 
@@ -135,11 +152,17 @@
   is_current: True
   position: Postdoctoral Fellow
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+    My current research goal is to identify genetic features that 
+    underlie elevated expression and somatic amplification of the FCGR2B 
+    gene as a driver of treatment resistance. 
+    Because Fcy receptor IIB promotes the internalization of rituximab, 
+    a monoclonal antibody used in the treatment of most non-Hodgkin 
+    lymphomas, patients with high FCGR2B expression experience inferior 
+    outcomes relative to patients with low FCGR2B expression. 
+    My project involves both wet and dry lab components, using analysis 
+    of RNAseq and whole genome and exome sequencing data to identify 
+    candidate drivers of FCGR2B expression, and functionally 
+    characterizing these candidates in cell lines.
   photo: team/lhilton.jpg
 
 
@@ -174,9 +197,39 @@
   is_current: True
   position: MSc Student
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+    Recent studies have identified a handful of genetic subgroups which 
+    present a novel method of classification for alternative treatment 
+    strategies. 
+    For my thesis project, I aim to expand on classifying these subgroups 
+    in diffuse large B-cell lymphoma using a machine learning approach 
+    utilizing molecular indicators such as mutation status from a set 
+    of genes and hot spots relevant to the cancer type, copy number 
+    segmentation, and identification, cell-of-origin, as features. 
+    I hope to consolidate subtypes from these studies as well as to 
+    capture novel groups to capture an aspect of pathogenic 
+    heterogeneity of DLBCL.
   photo: team/jtang.jpg
+
+
+- name: Aixiang Jiang
+  is_pi: False
+  is_current: True
+  position: Biostatistician
+  bio: >
+    I am a statistician and a bioinformatician at times.
+    Although I had several years' experience in a molecular biology lab 
+    and did tissue/cell culture, DNA and RNA isolation, real-time PCR, 
+    quantitative and qualitative reverse transcriptase PCR (RT-PCR), 
+    cloning, western blots, southern blots, yeast 2-hybrid (Y2H) assay, 
+    microarray, even manually sequencing and so on; 
+    I have been focusing on statistical analysis since 2002. 
+
+    My daily work involves data analysis, statistical consulting, and of 
+    course statistical programming. 
+    My research interesting, however, is to develop customized statistical 
+    algorithms to solve biological researches problems, especially for 
+    high dimensional data. 
+    My recent researches are to identify mutation peaks/ranges and build
+    up new classification models that can be transformed to different 
+    data sets and even different platforms. 
+  photo: team/ajiang.jpg
