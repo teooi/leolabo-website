@@ -1,25 +1,25 @@
 - name: Genetic and molecular mechanisms of treatment resistance in DLBCL
   description: >
-    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed 
-    type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent. 
-    DLBCL patients exhibit variable responses to available therapies such 
-    as R-CHOP. Some biomarkers beginning to enter clinical trials rely on 
+    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed
+    type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent.
+    DLBCL patients exhibit variable responses to available therapies such
+    as R-CHOP. Some biomarkers beginning to enter clinical trials rely on
     gene expression signatures to identify high-risk cases.
-    For example, DLBCL comprises two cell-of-origin (COO) subgroups with 
-    activated B-cell (ABC) cases typically having worse prognosis than 
+    For example, DLBCL comprises two cell-of-origin (COO) subgroups with
+    activated B-cell (ABC) cases typically having worse prognosis than
     germinal centre B-cell (GCB) cases.
-    Therapeutics that exploit molecular features unique to each subgroup 
-    are being actively pursued but up-front identification of patients 
+    Therapeutics that exploit molecular features unique to each subgroup
+    are being actively pursued but up-front identification of patients
     unlikely to achieve a durable response remains a challenge.
-    Although existing methods can identify specific prognostic gene 
-    expression features, these capture only some of the clinical 
-    heterogeneity and require tumour RNA, which is not always available. 
-    Using comprehensive genomic analyses and by integrating mutation and 
-    expression data from over 2000 DLBCL tumours, we seek novel molecular 
+    Although existing methods can identify specific prognostic gene
+    expression features, these capture only some of the clinical
+    heterogeneity and require tumour RNA, which is not always available.
+    Using comprehensive genomic analyses and by integrating mutation and
+    expression data from over 2000 DLBCL tumours, we seek novel molecular
     features that are associated with treatment resistance in DLBCL.
-    The ultimate goal of this work is to develop new predictive and 
-    prognostic biomarkers and identify new therapeutic targets for 
-    treatment-resistant DLBCLs. 
+    The ultimate goal of this work is to develop new predictive and
+    prognostic biomarkers and identify new therapeutic targets for
+    treatment-resistant DLBCLs.
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Laura Hilton, Miguel Alcaide, Aixiang Jiang
@@ -27,7 +27,7 @@
 
 - name: Resolving clonal structure and evolution patterns in DLBCL
   description: >
-    DESCRIPTION NEEDED 
+    DESCRIPTION NEEDED
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
@@ -40,8 +40,8 @@
     Only 30-40% of patients with advanced disease achieving a complete response to frontline treatments (R-bendamustine).
     Heterogeneous clinical response is partially attributable to observable variations in morphology, immunophenotype and proliferative capacity;
     however, there is little known about the relationship between genetic features and variation in phenotype or response to specific treatment regimens.
-    Through a meta-analysis of in-house and existing exome sequencing data, our group has identified multiple novel driver mutations in MCL including some that associate with high or low proliferation. 
-    To more completely ascertain the mutations that lead to lymphomagenesis in MCL, we are performing an integrative proteogenomic characterization of MCL tumours using a combination of whole genome sequencing, RNA-seq and shotgun proteomics. 
+    Through a meta-analysis of in-house and existing exome sequencing data, our group has identified multiple novel driver mutations in MCL including some that associate with high or low proliferation.
+    To more completely ascertain the mutations that lead to lymphomagenesis in MCL, we are performing an integrative proteogenomic characterization of MCL tumours using a combination of whole genome sequencing, RNA-seq and shotgun proteomics.
     We will are using these data to identify novel coding and non-coding (i.e. regulatory) driver mutations that affect the natural history of MCL including treatment response.
   funding: Terry Fox Research Institute
   collaborators: Marco Marra, David Scott, Diego Villa
@@ -51,16 +51,16 @@
 - name: Identification and functional characterization of recurrent non-coding mutations in NHLs
   description: >
        The list of protein-coding drivers identified through sequencing in DLBCL
-       has begun to saturate and yet there remains a gap in our understanding 
-       of how these genetic alterations contribute to the 
+       has begun to saturate and yet there remains a gap in our understanding
+       of how these genetic alterations contribute to the
        transcriptional differences underlying known prognostic signatures and molecular subgroups.
-       For example, dysregulation of NF-κB is the hallmark feature of ABC 
-       DLBCL but many ABC cases appear to lack the common driver mutations 
-       that are known to promote NF-κB. We are seeking driver mutations 
+       For example, dysregulation of NF-κB is the hallmark feature of ABC
+       DLBCL but many ABC cases appear to lack the common driver mutations
+       that are known to promote NF-κB. We are seeking driver mutations
        that contribute to some features of NHLs.
-       We use data-driven comprehnsive methods that allow identification of 
-       non-coding SSMs with a regulatory effect in cis or trans on 
-       genes/proteins relevant to malignancy.   
+       We use data-driven comprehnsive methods that allow identification of
+       non-coding SSMs with a regulatory effect in cis or trans on
+       genes/proteins relevant to malignancy.
   funding: Terry Fox Research Institute, CIHR
   collaborators: Christian Steidl, David Scott
   assignees: Sarah Arthur, Krysta Coyle, Aixiang Jiang
@@ -68,32 +68,31 @@
 
 - name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
   description: >
-    Burkitt lymphoma (BL) is currently classified as one of three clinical 
+    Burkitt lymphoma (BL) is currently classified as one of three clinical
     variants: endemic BL, sporadic BL, and HIV-associated BL.
-    The endemic variant is primarily diagnosed in sub-Saharan Africa and is 
-    epidemiologically associated with the Epstein–Barr virus (EBV) and 
-    malaria infection; although, the role of these pathogens in promoting 
+    The endemic variant is primarily diagnosed in sub-Saharan Africa and is
+    epidemiologically associated with the Epstein–Barr virus (EBV) and
+    malaria infection; although, the role of these pathogens in promoting
     the formation of BL remains unclear.
     On the other hand, sporadic BL is diagnosed outside of malaria-endemic
     areas, with only a minority of cases being EBV-positive (10-30%).
-    This project seeks to generate high-throughput whole genome and 
+    This project seeks to generate high-throughput whole genome and
     transcriptome sequencing data from over 100 BL tumours in order to
     elucidate the genetic and molecular underpinnings of the disease.
-    With this project, we aim to refine the mutational landscape of BL to 
-    facilitate the development of less toxic targeted therapies. 
+    With this project, we aim to refine the mutational landscape of BL to
+    facilitate the development of less toxic targeted therapies.
     We also plan on investigating the oncogenic role of EBV and whether it may
     serve as a better criterion for disease classification than the current
-    system relying on geographic origin. 
+    system relying on geographic origin.
   funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
   collaborators: Marco Marra, Louis Staudt
   assignees: Bruno Grande, Aixiang Jiang
   photo: projects/blgsp_ash_2017.jpg
 
-- name: Genetic characterization of canine B-cell lymphomas
+  - name: Genetic characterization of canine B-cell lymphomas
   description: >
     ADD A DESCRIPTION
   funding: NSERC
-  collaborators: 
+  collaborators:
   assignees: Kevin Bushell
-  photo: projects/TRAF3.tif  
-
+  photo: projects/TRAF3.png
