@@ -237,3 +237,16 @@
     up new classification models that can be transformed to different 
     data sets and even different platforms. 
   photo: team/ajiang.jpg
+
+
+- name: Tony Ngo
+  is_pi: False
+  is_current: True
+  position: Undergraduate researcher
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
+    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
+    Morbi a turpis ipsum. 
+    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+  photo: team/tngo.jpg
