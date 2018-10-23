@@ -48,12 +48,12 @@
   assignees: Prasath Pararajalingam
   photo: projects/mcl_oncoplot.png
 
-- name: Identification and functional characterization of recurrent non-coding mutations in non-Hodgkin lymphomas
+- name: Identification and functional characterization of recurrent non-coding mutations in NHLs
   description: >
-       The list of protein-coding drivers identified through sequencing 
+       The list of protein-coding drivers identified through sequencing in DLBCL
        has begun to saturate and yet there remains a gap in our understanding 
-       of how these or additional genetic alterations contribute to the 
-       transcriptional differences underlying known prognostic signatures.
+       of how these genetic alterations contribute to the 
+       transcriptional differences underlying known prognostic signatures and molecular subgroups.
        For example, dysregulation of NF-κB is the hallmark feature of ABC 
        DLBCL but many ABC cases appear to lack the common driver mutations 
        that are known to promote NF-κB. We are seeking driver mutations 
