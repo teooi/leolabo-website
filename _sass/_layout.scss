@@ -184,13 +184,13 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -327,7 +327,7 @@
  */
 
 h1.post-title {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .lab-wrapper ul {
@@ -345,7 +345,7 @@ h1.post-title {
 }
 
 .member-name {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .member-photo {
