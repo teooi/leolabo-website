@@ -27,7 +27,13 @@
 
 - name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
   description: >
-    Add description
+    Mantle cell lymphoma is a rare cancer that derives from B lymphocytes in the periphery (mantle zone)
+    of the germinal centre. MCL is most often diagnosed at stage 3 or 4 and is typically aggressive although some patients have an indolent form of the disesae.
+    Only 30-40% of patients with advanced disease achieving a complete response to frontline treatments (R-bendamustine).
+    Heterogeneous clinical response is partially attributable to observable variations in morphology, immunophenotype and proliferative capacity;
+    however, there is little known about the relationship between genetic features and variation in phenotype or response to specific treatment regimens.
+    Our team is performing an integrative proteogenomic characterization of MCL tumours using a combination of whole genome sequencing, RNA-seq and shotgun proteomics. 
+    We will use these data to identify novel coding and non-coding (i.e. regulatory) driver mutations that affect the natural history of MCL including treatment response.
   funding: Terry Fox Research Institute
   collaborators: Marco Marra, David Scott, Diego Villa
   assignees: Prasath Pararajalingam
