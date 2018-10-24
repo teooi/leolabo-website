@@ -20,48 +20,6 @@
     tumour DNA. 
   photo: team/rmorin.jpg
 
-- name: Stephen Yu
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  bio: >
-    Circulating tumour DNA (ctDNA) is rapidly becoming adopted as a 
-    sensitive biomarker for non-invasive monitoring of treatment response 
-    in many cancer types.
-    Stephen's work helped to establish and validate numerous assays for 
-    quantifying ctDNA in plasma from lymphoma patients.
-    These assays demonstrated prognostic utility of ctDNA in multiple 
-    clinical trials. 
-  photo: team/syu.jpg
-
-- name: Kevin Bushell
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  bio: >
-    Lymphoma is the most common cancer affecting pet dogs. Kevin used 
-    genomic techniques to identify mutations involved in lymphomagenesis 
-    in canine B-cell lymphoma.
-    His work identified TRAF3 as one of the most commonly mutated genes 
-    in this cancer. He also studied the potential utility of ctDNA in a 
-    variety of human cancers.
-    He joined our laboratory full-time after graduating and has since 
-    started law school. 
-  photo: team/kbushell.jpg
-
-
-- name: Arezoo Mohajeri
-  is_pi: False
-  is_current: False
-  position: MSc Student
-  bio: >
-    Arezoo generated and analyzed exome sequence data from DLBCL and 
-    mantle cell lymphoma (MCL) tumours.
-    Her thesis project involved a meta-analysis of published and in-house 
-    exome data to identify new recurrently-mutated genes in MCL including 
-    a novel silent mutation hot spot in MAP3K14. 
-  photo: team/amohajeri.jpg
-
 - name: Dr. Miguel Alcaide
   is_pi: False
   is_current: True
@@ -92,129 +50,6 @@
     woolly dogs.
   photo: team/malcaide.jpg
 
-- name: Sarah Arthur
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  bio: >
-    My project in the lab is focused on the characterization of novel 
-    NFKBIZ 3’ UTR mutations we previously discovered in DLBCL. 
-    These mutations were discovered through a project searching for 
-    genome-wide non-coding mutations and found to be significantly 
-    enriched in the ABC sub-type of DLBCL. 
-    My research involves functional analysis of these mutations in 
-    DLBCL cell lines and in vivo mouse xenograft models to determine 
-    how these mutations lead to activation of the NF-kB pathway and 
-    contribute to DLBCL. 
-    I am also working to determine the structure of the NFKBIZ 3’ UTR 
-    and how mutations lead to changes that affect the regulation of 
-    this gene.
-  photo: team/sarthur.jpg
-
-- name: Dr. Krysta Coyle
-  is_pi: False
-  is_current: True
-  position: Postdoctoral Fellow
-  bio: >
-    My research aims to understand the role of recurrent cis-regulatory 
-    mutations in mantle cell lymphoma (MCL). 
-    Specifically, I am characterizing a potential role for alternative 
-    splicing in the progression of MCL. 
-    This work uses a variety of molecular biology tools and bioinformatic 
-    approaches to determine how mutations in RNA binding proteins 
-    affect in vitro cell behaviour. 
-    I am a passionate advocate for equity, diversity, and inclusion and 
-    enjoy communicating science to kids and adults alike.
-  photo: team/kcoyle.jpg
-
-
-- name: Bruno Grande
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  bio: >
-    As the first bioinformatics graduate student in the lab, I've played 
-    a role in several projects, each involving cancer genomics to some 
-    degree.
-    Currently, my primary project is the genetic and molecular 
-    characterization of paediatric Burkitt lymphoma (BL).
-    Defined by an epidemiological association with the Epstein–Barr virus
-    and malaria, the endemic variant of BL has been understudied compared
-    to sporadic BL, which is diagnosed in developed countries.
-    I lead the analysis of whole genome and transcriptome sequencing data 
-    derived from over 100 cases, which has led to breakthroughs in our 
-    understanding of BL pathogenesis.
-    On the side, I'm an advocate for open and reproducible science, a
-    Software Carpentry instructor teaching programming to researchers, 
-    and the co-founder of the Scientific Programming Study Group at SFU 
-    (SciProg.ca) and the annual Hackseq genomics hackathon.
-  photo: team/bgrande.jpg
-
-
-- name: Dr. Laura Hilton
-  is_pi: False
-  is_current: True
-  position: Postdoctoral Fellow
-  bio: >
-    My current research goal is to identify genetic features that 
-    underlie elevated expression and somatic amplification of the FCGR2B 
-    gene as a driver of treatment resistance. 
-    Because Fcy receptor IIB promotes the internalization of rituximab, 
-    a monoclonal antibody used in the treatment of most non-Hodgkin 
-    lymphomas, patients with high FCGR2B expression experience inferior 
-    outcomes relative to patients with low FCGR2B expression. 
-    My project involves both wet and dry lab components, using analysis 
-    of RNAseq and whole genome and exome sequencing data to identify 
-    candidate drivers of FCGR2B expression, and functionally 
-    characterizing these candidates in cell lines.
-  photo: team/lhilton.jpg
-
-
-- name: Prasath Pararajalingam
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
-  photo: team/ppararajalingam.jpg
-
-
-- name: Christopher Rushton
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
-  photo: team/crushton.jpg
-
-
-- name: Jeffrey Tang
-  is_pi: False
-  is_current: True
-  position: MSc Student
-  bio: >
-    Recent studies have identified a handful of genetic subgroups which 
-    present a novel method of classification for alternative treatment 
-    strategies. 
-    For my thesis project, I aim to expand on classifying these subgroups 
-    in diffuse large B-cell lymphoma using a machine learning approach 
-    utilizing molecular indicators such as mutation status from a set 
-    of genes and hot spots relevant to the cancer type, copy number 
-    segmentation, and identification, cell-of-origin, as features. 
-    I hope to consolidate subtypes from these studies as well as to 
-    capture novel groups to capture an aspect of pathogenic 
-    heterogeneity of DLBCL.
-  photo: team/jtang.jpg
-
-
 - name: Aixiang Jiang
   is_pi: False
   is_current: True
@@ -238,19 +73,122 @@
     data sets and even different platforms. 
   photo: team/ajiang.jpg
 
-
-- name: Tony Ngo
+- name: Dr. Laura Hilton
   is_pi: False
   is_current: True
-  position: Undergraduate researcher
+  position: Postdoctoral Fellow
+  bio: >
+    My current research goal is to identify genetic features that 
+    underlie elevated expression and somatic amplification of the FCGR2B 
+    gene as a driver of treatment resistance. 
+    Because Fcy receptor IIB promotes the internalization of rituximab, 
+    a monoclonal antibody used in the treatment of most non-Hodgkin 
+    lymphomas, patients with high FCGR2B expression experience inferior 
+    outcomes relative to patients with low FCGR2B expression. 
+    My project involves both wet and dry lab components, using analysis 
+    of RNAseq and whole genome and exome sequencing data to identify 
+    candidate drivers of FCGR2B expression, and functionally 
+    characterizing these candidates in cell lines.
+  photo: team/lhilton.jpg
+
+- name: Dr. Krysta Coyle
+  is_pi: False
+  is_current: True
+  position: Postdoctoral Fellow
+  bio: >
+    My research aims to understand the role of recurrent cis-regulatory 
+    mutations in mantle cell lymphoma (MCL). 
+    Specifically, I am characterizing a potential role for alternative 
+    splicing in the progression of MCL. 
+    This work uses a variety of molecular biology tools and bioinformatic 
+    approaches to determine how mutations in RNA binding proteins 
+    affect in vitro cell behaviour. 
+    I am a passionate advocate for equity, diversity, and inclusion and 
+    enjoy communicating science to kids and adults alike.
+  photo: team/kcoyle.jpg
+
+- name: Bruno Grande
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    As the first bioinformatics graduate student in the lab, I've played 
+    a role in several projects, each involving cancer genomics to some 
+    degree.
+    Currently, my primary project is the genetic and molecular 
+    characterization of paediatric Burkitt lymphoma (BL).
+    Defined by an epidemiological association with the Epstein–Barr virus
+    and malaria, the endemic variant of BL has been understudied compared
+    to sporadic BL, which is diagnosed in developed countries.
+    I lead the analysis of whole genome and transcriptome sequencing data 
+    derived from over 100 cases, which has led to breakthroughs in our 
+    understanding of BL pathogenesis.
+    On the side, I'm an advocate for open and reproducible science, a
+    Software Carpentry instructor teaching programming to researchers, 
+    and the co-founder of the Scientific Programming Study Group at SFU 
+    (SciProg.ca) and the annual Hackseq genomics hackathon.
+  photo: team/bgrande.jpg
+
+- name: Sarah Arthur
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    My project in the lab is focused on the characterization of novel 
+    NFKBIZ 3’ UTR mutations we previously discovered in DLBCL. 
+    These mutations were discovered through a project searching for 
+    genome-wide non-coding mutations and found to be significantly 
+    enriched in the ABC sub-type of DLBCL. 
+    My research involves functional analysis of these mutations in 
+    DLBCL cell lines and in vivo mouse xenograft models to determine 
+    how these mutations lead to activation of the NF-kB pathway and 
+    contribute to DLBCL. 
+    I am also working to determine the structure of the NFKBIZ 3’ UTR 
+    and how mutations lead to changes that affect the regulation of 
+    this gene.
+  photo: team/sarthur.jpg
+
+- name: Prasath Pararajalingam
+  is_pi: False
+  is_current: True
+  position: PhD Student
   bio: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
     Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
     Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
     Morbi a turpis ipsum. 
     Fusce ultricies justo non ligula semper quis gravida leo sodales.
-  photo: team/tngo.jpg
+  photo: team/ppararajalingam.jpg
 
+- name: Christopher Rushton
+  is_pi: False
+  is_current: True
+  position: PhD Student
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
+    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
+    Morbi a turpis ipsum. 
+    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+  photo: team/crushton.jpg
+
+- name: Jeffrey Tang
+  is_pi: False
+  is_current: True
+  position: MSc Student
+  bio: >
+    Recent studies have identified a handful of genetic subgroups which 
+    present a novel method of classification for alternative treatment 
+    strategies. 
+    For my thesis project, I aim to expand on classifying these subgroups 
+    in diffuse large B-cell lymphoma using a machine learning approach 
+    utilizing molecular indicators such as mutation status from a set 
+    of genes and hot spots relevant to the cancer type, copy number 
+    segmentation, and identification, cell-of-origin, as features. 
+    I hope to consolidate subtypes from these studies as well as to 
+    capture novel groups to capture an aspect of pathogenic 
+    heterogeneity of DLBCL.
+  photo: team/jtang.jpg
 
 - name: Nicole Thomas
   is_pi: False
@@ -264,7 +202,6 @@
     Fusce ultricies justo non ligula semper quis gravida leo sodales.
   photo: team/nthomas.jpg
 
-
 - name: Matt Cheung
   is_pi: False
   is_current: True
@@ -276,3 +213,56 @@
     Morbi a turpis ipsum. 
     Fusce ultricies justo non ligula semper quis gravida leo sodales.
   photo: team/mcheung.jpg
+
+- name: Tony Ngo
+  is_pi: False
+  is_current: True
+  position: Undergraduate researcher
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
+    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
+    Morbi a turpis ipsum. 
+    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+  photo: team/tngo.jpg
+
+- name: Stephen Yu
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    Circulating tumour DNA (ctDNA) is rapidly becoming adopted as a 
+    sensitive biomarker for non-invasive monitoring of treatment response 
+    in many cancer types.
+    Stephen's work helped to establish and validate numerous assays for 
+    quantifying ctDNA in plasma from lymphoma patients.
+    These assays demonstrated prognostic utility of ctDNA in multiple 
+    clinical trials. 
+  photo: team/syu.jpg
+
+- name: Kevin Bushell
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    Lymphoma is the most common cancer affecting pet dogs. Kevin used 
+    genomic techniques to identify mutations involved in lymphomagenesis 
+    in canine B-cell lymphoma.
+    His work identified TRAF3 as one of the most commonly mutated genes 
+    in this cancer. He also studied the potential utility of ctDNA in a 
+    variety of human cancers.
+    He joined our laboratory full-time after graduating and has since 
+    started law school. 
+  photo: team/kbushell.jpg
+
+- name: Arezoo Mohajeri
+  is_pi: False
+  is_current: False
+  position: MSc Student
+  bio: >
+    Arezoo generated and analyzed exome sequence data from DLBCL and 
+    mantle cell lymphoma (MCL) tumours.
+    Her thesis project involved a meta-analysis of published and in-house 
+    exome data to identify new recurrently-mutated genes in MCL including 
+    a novel silent mutation hot spot in MAP3K14. 
+  photo: team/amohajeri.jpg
