@@ -183,8 +183,7 @@
     My project aims to expand on classifying these subgroups 
     in diffuse large B-cell lymphoma using a machine learning approach 
     utilizing molecular indicators such as mutation status from a set 
-    of genes and hot spots relevant to the cancer type, copy number 
-    segmentation, and identification, cell-of-origin, as features. 
+    of genes and hot spots, copy number status and cell-of-origin. 
     I hope to consolidate subtypes from these studies as well as to 
     capture novel groups to better describe the clinical 
     heterogeneity of DLBCL.
