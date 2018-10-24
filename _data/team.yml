@@ -282,3 +282,11 @@
   bio: >
     ...
   photo: team/harry.jpg
+
+- name: Stuart Zong
+  is_pi: False
+  is_current: False
+  position: Research Assistant
+  bio: >
+    ...
+  photo: team/harry.jpg
