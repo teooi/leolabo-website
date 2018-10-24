@@ -260,11 +260,11 @@
   is_current: False
   position: MSc Student
   bio: >
-    Arezoo generated and analyzed exome sequence data from DLBCL and 
+    Arezoo generated and analyzed exome sequence data from diffuse large B-cell lymphoma (DLBCL) and 
     mantle cell lymphoma (MCL) tumours.
     Her thesis project involved a meta-analysis of published and in-house 
     exome data to identify new recurrently-mutated genes in MCL including 
-    a novel silent mutation hot spot in MAP3K14. 
+    a novel silent mutation hot spot in MAP3K14. She also demonstrated patterns of clonal evolution in relapsed DLBCL.
   photo: team/amohajeri.jpg
 
 - name: Sepideh Alamouti
