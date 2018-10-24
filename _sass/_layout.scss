@@ -59,6 +59,23 @@
         text-align: right;
         width: inherit;
 
+        .trigger {
+            height: inherit;
+        }
+
+        .trigger ul {
+            height: inherit;
+        }
+
+        .trigger ul li {
+            float: none;
+        }
+
+        .trigger ul li a {
+            text-align: right;
+            margin-left: 0px;
+        }
+
         .menu-icon {
             display: block;
             float: right;
@@ -142,10 +159,8 @@
 }
 
 .trigger ul li .active { 
-    font-weight: bold; 
     margin: 0; 
     padding: 0 !important; 
-    text-decoration: none;
 }
 
 
