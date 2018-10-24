@@ -177,10 +177,10 @@
   is_current: True
   position: MSc Student
   bio: >
-    Recent studies have identified a handful of genetic subgroups which 
+    Recent studies have identified 4 or 5 genetic subgroups in DLBCL, which 
     present a novel method of classification for alternative treatment 
     strategies. 
-    For my thesis project, I aim to expand on classifying these subgroups 
+    My project aims to expand on classifying these subgroups 
     in diffuse large B-cell lymphoma using a machine learning approach 
     utilizing molecular indicators such as mutation status from a set 
     of genes and hot spots relevant to the cancer type, copy number 
@@ -207,11 +207,9 @@
   is_current: True
   position: Undergraduate researcher
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+    I assist with a variety of ongoing projects in the lab.
+    Most recently I have been implementing multiplex ddPCR assays for identifying common hot spot mutations in KRAS. 
+    I enjoy long walks on the beach, deep conversation, holding hands, romance novels, pruning the garden, skinny dipping and piggy-back rides.
   photo: team/mcheung.jpg
 
 - name: Tony Ngo
