@@ -274,3 +274,11 @@
   bio: >
     ...
   photo: team/harry.jpg
+  
+- name: Dan Fornika
+  is_pi: False
+  is_current: False
+  position: Research Assistant/Bioinformatician
+  bio: >
+    ...
+  photo: team/hermione.jpg
