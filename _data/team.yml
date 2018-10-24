@@ -181,12 +181,11 @@
     present a novel method of classification for alternative treatment 
     strategies. 
     My project aims to expand on classifying these subgroups 
-    in diffuse large B-cell lymphoma using a machine learning approach 
-    utilizing molecular indicators such as mutation status from a set 
+    in DLBCL using a machine learning approaches utilizing molecular indicators such as mutation status from a set 
     of genes and hot spots, copy number status and cell-of-origin. 
     I hope to consolidate subtypes from these studies as well as to 
-    capture novel groups to better describe the clinical 
-    heterogeneity of DLBCL.
+    capture novel groups to better describe clinical 
+    heterogeneity in DLBCL.
   photo: team/jtang.jpg
 
 - name: Nicole Thomas
