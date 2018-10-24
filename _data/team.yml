@@ -272,7 +272,7 @@
   is_current: False
   position: Postdoctoral fellow
   bio: >
-    ...
+    
   photo: team/harry.jpg
   
 - name: Dan Fornika
@@ -280,7 +280,7 @@
   is_current: False
   position: Research Assistant/Bioinformatician
   bio: >
-    ...
+    
   photo: team/harry.jpg
 
 - name: Stuart Zong
@@ -288,5 +288,5 @@
   is_current: False
   position: Research Assistant
   bio: >
-    ...
+    
   photo: team/harry.jpg
