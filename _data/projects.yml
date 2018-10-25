@@ -27,7 +27,18 @@
 
 - name: Resolving clonal structure and evolution patterns in DLBCL
   description: >
-    DESCRIPTION NEEDED
+    Diffuse Large B-Cell Lymphoma is a genetically heterogeneous form of cancer, 
+    with different cells in the tumour acquiring different mutations. This 
+    intra-tumour heterogeneity can have profound effects on treatment; if a clonal 
+    subpopulations is resistant to treatment, it will reform the tumour following 
+    treatment, causing the patient to relapse. Using samples obtained before and 
+    after patients are treated, we can identify clonal subpopulations in the tumour, 
+    and further explore how the tumour evolves and adapts in the face of a strong 
+    selective pressure such as treatment. The mutations unique to these resistant 
+    clonal subpopulations can be explored to determine which mutation(s) result 
+    in treatment resistance. We can further determine if these mutations are 
+    detectable prior to treatment, allowing patient to be screened for resistance 
+    mutations before they are treated.
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
