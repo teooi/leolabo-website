@@ -31,8 +31,11 @@
     with different cells in the tumour acquiring different mutations. This 
     intra-tumour heterogeneity can have profound effects on treatment; if a clonal 
     subpopulations is resistant to treatment, it will reform the tumour following 
-    treatment, causing the patient to relapse. Using samples obtained before and 
-    after patients are treated, we can identify clonal subpopulations in the tumour, 
+    treatment, causing the patient to relapse. We are recieving samples from several
+    clinical trials exploring different salvage therapies for patients with relapsed
+    DLBCL. Tumour biopsies and liquid biopsies are being collected from patients 
+    both before and after they are treated. Using these temporal sources of tumour DNA,
+    we can identify clonal subpopulations in the tumour, 
     and further explore how the tumour evolves and adapts in the face of a strong 
     selective pressure such as treatment. The mutations unique to these resistant 
     clonal subpopulations can be explored to determine which mutation(s) result 
@@ -42,7 +45,7 @@
   funding: Terry Fox Research Institute
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
-  photo: projects/FCGR2B_cropped.png
+  photo: projects/DLBCL_Evolution.png
 
 - name: Circulating Tumour DNA as a biomarker in non-Hodgkin lymphoma
   description: >
