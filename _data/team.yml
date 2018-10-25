@@ -165,11 +165,16 @@
   is_current: True
   position: PhD Student
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+    My research project focuses on identifying mutations in patients with relapsed Diffuse Large B-Cell Lymphoma; specifically, 
+    the analysis of liquid biopsies obtained from these patients. As cells undergo apoptosis, apoptotic bodies containing DNA 
+    are released into the bloodstream, and this DNA is called cell-free DNA. In patients with cancer, a portion of this 
+    cell-free DNA originates from malignant cells, termed circulating-tumour DNA. Thus, we can obtain tumour genetic material 
+    simply by obtaining a blood sample (called a liquid biopsy), which is less invasive and significantly cheaper than traditional 
+    biopsies. Due to the unique nature of liquid biopsies, I am currently developing several pieces of software for analyzing 
+    and benchmarking existing mutation-calling tools for use with these types of samples. I am applying these tools to samples 
+    collected from several clinical trials where liquid biopsies are collected after patients are treated. By comparing the 
+    mutation landscape of these patients prior to and following treatment, we identify mutations enriched following treatment, 
+    which may contribute to tumour treatment resistance.
   photo: team/crushton.jpg
 
 - name: Jeffrey Tang
