@@ -91,7 +91,10 @@
 
 - name: Genetic characterization of canine B-cell lymphomas
   description: >
-    ADD A DESCRIPTION
+    Cancer is the leading cause of premature death in pet dogs and non-Hodgkin lymphomas are the most common cancer in most dog breeds.
+    Unlike human lymphomas with similar histopathology, canine B-cell lymphomas (cBCL) are incurable and exhibit an agressive clinical course.
+    We are sequencing cBCLs to identify driver mutations that contribute to this cancer in a variety of dog breeds. 
+    We identified TRAF3 as a novel tumour suppressor in cBCL and are pursuing additional candidate genes. 
   funding: NSERC
   collaborators:
   assignees: Kevin Bushell, Krishanna Campbell, Matt Cheung
