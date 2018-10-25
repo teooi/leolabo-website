@@ -201,6 +201,14 @@
     Fusce ultricies justo non ligula semper quis gravida leo sodales.
   photo: team/nthomas.jpg
 
+-name: Krishanna Campbell
+  is_pi: False
+  is_current: True
+  position: Undergraduate researcher
+  bio: >
+  
+  photo: team/harry.jpg
+
 - name: Matt Cheung
   is_pi: False
   is_current: True
