@@ -201,7 +201,7 @@
     Fusce ultricies justo non ligula semper quis gravida leo sodales.
   photo: team/nthomas.jpg
 
--name: Krishanna Campbell
+- name: Krishanna Campbell
   is_pi: False
   is_current: True
   position: Undergraduate researcher
