@@ -277,6 +277,13 @@
   bio: >
     
   photo: team/harry.jpg
+- name: Kristina Aluzaite
+  is_pi: False
+  is_current: False
+  position: Visiting Graduate Student
+  bio: >
+  
+  photo: team/harry.jpg
 
 - name: Stuart Zong
   is_pi: False
