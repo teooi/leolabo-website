@@ -153,12 +153,11 @@
   is_current: True
   position: PhD Student
   bio: >
-    My PhD project in the Morin lab has me exploring aspects of mantle
-    cell lymphoma (MCL) pathobiology using a variety of bioinformatic
+    My PhD project has me exploring the molecular aetiology of mantle
+    cell lymphoma (MCL) using a combination of data types and a variety of bioinformatic
     techniques. My analysis of the mutational landscape of MCL has
-    revealed an enrichment of mutations in splicing factors. Currently,
-    I am investigating deregulation of non-coding elements using a large
-    dataset of WGS and RNA-seq MCL tumours. 
+    revealed an enrichment of mutations in splicing factors and RNA-binding proteins. Currently,
+    I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours. 
   photo: team/ppararajalingam.jpg
 
 - name: Christopher Rushton
