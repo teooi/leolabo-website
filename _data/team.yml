@@ -289,13 +289,14 @@
   bio: >
     
   photo: team/harry.jpg
+  
 - name: Marco Albuquerque
   is_pi: False
   is_current: False
-  position: Undergraduate researcher (bioinformatics)
+  position: Undergraduate bioinformatician
   bio: >
   
-  photo: team/harry.jpg
+  photo: team/marco.jpg
 
 - name: Kristina Aluzaite
   is_pi: False
