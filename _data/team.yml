@@ -198,11 +198,11 @@
   is_current: True
   position: Undergraduate researcher
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nullam vestibulum luctus arcu, ac suscipit sapien viverra vel. 
-    Maecenas lorem nisl, viverra in sodales ut, vehicula sit amet augue. 
-    Morbi a turpis ipsum. 
-    Fusce ultricies justo non ligula semper quis gravida leo sodales.
+    I completed my Honours Project in the Morin lab, during which I investigated the role of putative enhancers in
+    Mantle Cell Lymphoma. My current role in the lab involves the mining of RNA-Seq data to identify unique gene
+    expression patterns present in Non-Hodgkin’s Lymphoma. Currently, I am using RNA-Seq data, in conjunction with
+    Whole Genome Sequencing data, to identify mutations and single nucleotide polymorphisms that affect the alternative
+    splicing of RNA transcripts.
   photo: team/nthomas.jpg
 
 - name: Krishanna Campbell
