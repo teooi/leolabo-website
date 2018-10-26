@@ -304,6 +304,14 @@
     
   photo: team/dfornika.jpg
   
+- name: Selin Jessa
+  is_pi: False
+  is_current: False
+  position: Undergraduate bioinformatician
+  bio: >
+  
+  photo: team/harry.jpg
+  
 - name: Marco Albuquerque
   is_pi: False
   is_current: False
