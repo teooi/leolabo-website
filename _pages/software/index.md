@@ -37,7 +37,7 @@ rank: 3
 * [Chris Rushton](https://github.com/ckrushton)
 * [Bruno Grande](https://github.com/scientificbruno)
 * [Prasath Pararajalingam](https://github.com/ppararaj)
-* [Aixiang Jiang]({{ site.baseurl }}{% link pages/_team/index.md %})
+* Aixiang Jiang
 * Marco Albuquerque
 * Elie Ritch
 * Selin Jessa
