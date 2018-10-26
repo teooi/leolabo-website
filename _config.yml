@@ -1,5 +1,7 @@
 # Site settings
 lab_name: Morin Laboratory
+author: >
+  Bruno Grande, Ryan Morin and the Morin laboratory
 institution: SFU
 email: rdmorin@sfu.ca
 description: >
@@ -15,3 +17,7 @@ images_dir: "/images/"
 markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
+
+#plugins for search engine optimization
+plugins:
+  - jekyll-seo-tag
