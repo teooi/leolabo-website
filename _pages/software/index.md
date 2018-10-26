@@ -39,5 +39,7 @@ rank: 3
 * [Prasath Pararajalingam](https://github.com/ppararaj)
 * Aixiang Jiang
 * Marco Albuquerque
+* Elie Ritch
+* Selin Jessa
 
 
