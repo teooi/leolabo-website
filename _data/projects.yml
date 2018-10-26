@@ -49,7 +49,11 @@
 
 - name: Circulating Tumour DNA as a biomarker in non-Hodgkin lymphoma
   description: >
-    DESCRIPTION NEEDED
+    This project aims to develop a novel way of monitoring patients with lymphoma and find a new immunotherapy regimen
+    that would be effective in patients that are not cured with conventional chemotherapy. They will first genetically
+    profile the tumours to determine at which time point they become resistant. They will then determine how these
+    lymphomas evade immune detection and test if targeting these evasion strategies, i.e. "harnessing the immune response"
+    is successful at eradicating chemo-resistant lymphoma.
   funding: CIHR
   collaborators: Christian Steidl, Nathalie Johnson
   assignees: Miguel Alcaide, Stephen Yu, Chris Rushton
