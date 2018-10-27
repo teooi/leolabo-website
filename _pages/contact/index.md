@@ -5,14 +5,8 @@ permalink: /contact/
 toggle: off
 rank: 7
 ---
-<!DOCTYPE HTML>
-<!-- 
-     After implementing this contact form make sure
-     1. you have defined "email: youremail@email.com" in _config.yml file.
-     2. you verify your form on formspree.io.
--->
 
-<html>
+
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="text" name="email" placeholder="Email Address">
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
@@ -49,4 +43,4 @@ form.wj-contact input[type="submit"] {
     height: auto;
 }
 </style>
-<html>
+
