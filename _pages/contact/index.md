@@ -8,7 +8,7 @@ rank: 7
 
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
-    <input type="email" name="email" placeholder="Enter your email">
+    <input type="email" name="email" placeholder="Enter your email"><br>
   First name:<br>
   <input type="text" name="firstname"><br>
   Last name:<br>
