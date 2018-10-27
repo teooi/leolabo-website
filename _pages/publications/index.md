@@ -30,6 +30,10 @@ Leuk Lymphoma. 2018 Sep;59(9):2159-2174. doi: 10.1080/10428194.2017.1413186.
 
 ## 2017
 
+[**Targeted Error-Suppressed Detection of Circulating Paternal DNA to Establish a Diagnosis of Gestational Trophoblastic Neoplasm**](http://ascopubs.org/doi/abs/10.1200/PO.17.00154)<br>
+Jean-Michel Lavoie, **Miguel Alcaide**, Rosemary A. Fisher, Michael J. Seckl, **Ryan Morin**, and Anna V. Tinker<br>
+JCO Precision Oncology 2017 :1, 1-6 
+
 [**Targeted error-suppressed quantification of circulating tumor DNA using semi-degenerate barcoded adapters and biotinylated baits.**](https://www.ncbi.nlm.nih.gov/pubmed/28874686)
 <br>
 **Alcaide M**, **Yu S**, **Davidson J**, **Albuquerque M**, **Bushell K**, **Fornika D**, **Arthur S**, **Grande BM**, McNamara S, Tertre MCD, Batist G, Huntsman DG, Cavallone L, Aguilar A, Basik M, Johnson NA, Deyell RJ, Rassekh SR, **Morin RD**.
