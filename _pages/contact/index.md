@@ -13,6 +13,7 @@ rank: 7
   <input type="text" name="firstname"><br>
   Last name:<br>
   <input type="text" name="lastname">
+  Interested in:<br>
   <input type="radio" name="application goal" value="MSc"> MSc<br>
   <input type="radio" name="application goal" value="PhD"> PhD<br>
   <input type="radio" name="application goal" value="Postdoctoral"> Postdoctoral fellow<br>
