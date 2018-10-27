@@ -18,7 +18,8 @@ rank: 7
   <input type="radio" name="application goal" value="Postdoctoral"> Postdoc
   <input type="radio" name="application goal" value="Work"> Work
   <input type="radio" name="application goal" value="Volunteer"> Volunteer
-  <textarea name="message" placeholder="Your message"></textarea>
+  <br>
+  <textarea rows="10" cols="150" name="message" placeholder="Type your message here"></textarea>
   Attach a file (CV, coverletter). Merge multiple files into a single PDF. <input type="file" name="myFile">
   <button type="submit">Send</button>
 </form>
