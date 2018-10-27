@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-toggle: off
+toggle: on
 rank: 7
 ---
 
