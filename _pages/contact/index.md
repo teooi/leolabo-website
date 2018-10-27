@@ -5,7 +5,10 @@ permalink: /contact/
 toggle: on
 rank: 7
 ---
-
+<head>
+    <script>UPLOADCARE_PUBLIC_KEY = "9ece2f24515da2c6390d";</script>
+<script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
+</head>
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="email" name="email" placeholder="Enter your email"><br>
@@ -21,7 +24,7 @@ rank: 7
   <input type="radio" name="application goal" value="Volunteer"> Volunteer
   <br>
   <textarea rows="10" cols="150" name="message" placeholder="Type your message here"></textarea>
-  Attach a file (CV, coverletter). Merge multiple files into a single PDF. <input type="file" name="myFile">
+  Attach a file (CV, coverletter). Merge multiple files into a single PDF. <input type="hidden" role="uploadcare-uploader" name="myFile" />
   <button type="submit">Send</button>
 </form>
 
