@@ -8,12 +8,19 @@ rank: 7
 
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
-    <input type="text" name="email" placeholder="Email Address">
-    <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
-    <input type="hidden" name="_next" value="<REDIRECTION LINK> ">
-    <input type="hidden" name="_subject" value="New Contact Form Submission">
-    <input type="text" name="_gotcha" style="display:none">
-    <input type="submit" value="Submit">
+    <input type="email" name="email" placeholder="Enter your email">
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
+  <input type="radio" name="application goal" value="MSc" checked> MSc<br>
+  <input type="radio" name="application goal" value="PhD"> PhD<br>
+  <input type="radio" name="application goal" value="Postdoctoral"> Postdoc
+  <input type="radio" name="application goal" value="Work"> Work
+  <input type="radio" name="application goal" value="Volunteer"> Volunteer
+  <textarea name="message" placeholder="Your message"></textarea>
+  Attach a file (CV, coverletter). Merge multiple files into a single PDF. <input type="file" name="myFile">
+  <button type="submit">Send</button>
 </form>
 
 <style>
