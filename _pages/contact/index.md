@@ -13,10 +13,10 @@ rank: 7
   <input type="text" name="firstname"><br>
   Last name:<br>
   <input type="text" name="lastname">
-  <input type="radio" name="application goal" value="MSc" checked> MSc<br>
+  <input type="radio" name="application goal" value="MSc"> MSc<br>
   <input type="radio" name="application goal" value="PhD"> PhD<br>
-  <input type="radio" name="application goal" value="Postdoctoral"> Postdoc
-  <input type="radio" name="application goal" value="Work"> Work
+  <input type="radio" name="application goal" value="Postdoctoral"> Postdoctoral fellow<br>
+  <input type="radio" name="application goal" value="Work"> Employment <br>
   <input type="radio" name="application goal" value="Volunteer"> Volunteer
   <br>
   <textarea rows="10" cols="150" name="message" placeholder="Type your message here"></textarea>
