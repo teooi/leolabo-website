@@ -76,7 +76,7 @@
     data sets and even different platforms. 
   photo: team/ajiang.jpg
 
-- name: Dr. Laura Hilton
+- name: <a href=https://orcid.org/0000-0002-6413-6586>Dr. Laura Hilton</a>
   is_pi: False
   is_current: True
   position: Postdoctoral Fellow
