@@ -76,7 +76,7 @@
     data sets and even different platforms. 
   photo: team/ajiang.jpg
 
-- name: <a href=https://orcid.org/0000-0002-6413-6586>Dr. Laura Hilton</a>
+- name: Dr. Laura Hilton
   is_pi: False
   is_current: True
   position: Postdoctoral Fellow
@@ -91,7 +91,7 @@
     My project involves both wet and dry lab components, using analysis 
     of RNAseq and whole genome and exome sequencing data to identify 
     candidate drivers of FCGR2B expression, and functionally 
-    characterizing these candidates in cell lines.
+    characterizing these candidates in cell lines. <a href=https://orcid.org/0000-0002-6413-6586>OpenID</a>
   photo: team/lhilton.jpg
 
 - name: Dr. Krysta Coyle
