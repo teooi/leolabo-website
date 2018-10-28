@@ -289,9 +289,8 @@
   bio: >
     Arezoo generated and analyzed exome sequence data from diffuse large B-cell lymphoma (DLBCL) and 
     mantle cell lymphoma (MCL) tumours.
-    Her thesis project involved a meta-analysis of published and in-house 
-    exome data to identify new recurrently-mutated genes in MCL including 
-    a novel silent mutation hot spot in MAP3K14. She also demonstrated patterns of clonal evolution in relapsed DLBCL.
+    Her thesis project involved a combination of wet-lab work and bioinformatics including a meta-analysis of published and in-house 
+    exome data to identify new recurrently-mutated genes in MCL. Her discoveries a novel silent mutation hot spot in MAP3K14. She also demonstrated patterns of clonal evolution in relapsed DLBCL.
   photo: team/amohajeri.jpg
 
 - name: Romene Sablok
