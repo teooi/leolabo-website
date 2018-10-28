@@ -285,6 +285,7 @@
   is_pi: False
   is_current: False
   position: MSc Student
+  researchgate: https://www.researchgate.net/profile/Arezoo_Mohajeri
   bio: >
     Arezoo generated and analyzed exome sequence data from diffuse large B-cell lymphoma (DLBCL) and 
     mantle cell lymphoma (MCL) tumours.
@@ -336,6 +337,7 @@
 - name: Marco Albuquerque
   is_pi: False
   is_current: False
+  github: https://github.com/marcoalbuquerque-sfu
   position: Undergraduate bioinformatician
   bio: >
   
