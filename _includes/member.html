@@ -7,4 +7,7 @@
     {% if member.orcid %}
         <a href="{{ member.orcid}}"><img src="https://orcid.org/sites/default/files/images/orcid_64x64.gif"/></a>
     {% endif %}
+    {% if member.scholar %}
+    <a href="{{ member.scholar}}"><img src="/images/team/scholar.png"/></a>
+    {% endif %}
 </li>
