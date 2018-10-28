@@ -5,12 +5,15 @@
     {% endif %}
     <p>{{ member.bio }}</p>
     {% if member.orcid %}
-        <a href="{{ member.orcid}}"><img src="/images/team/orcid.png" width="55" height="55"/></a>
+        <a href="{{ member.orcid}}"><img src="/images/team/orcid.png" width="50" height="50"/></a>
     {% endif %}
     {% if member.scholar %}
     <a href="{{ member.scholar}}"><img src="/images/team/scholar.png" width="60" height="60"/></a>
     {% endif %}
     {% if member.researchgate %}
     <a href="{{ member.researchgate}}"><img src="/images/team/researchgate.png" width="60" height="60"/></a>
+    {% endif %}
+    {% if member.github %}
+    <a href="{{ member.github}}"><img src="/images/team/github.jpg" width="60" height="60"/></a>
     {% endif %}
 </li>
