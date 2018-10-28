@@ -4,6 +4,7 @@
   position: Associate Professor
   orcid:  https://orcid.org/0000-0003-2932-7800
   scholar: https://scholar.google.ca/citations?user=IDau0mkAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Ryan_Morin
   bio: >
     I am in the department of Molecular Biology and Biochemistry at 
     SFU and hold a Scientist appointment in the BC Cancer Genome Sciences Centre.
@@ -28,6 +29,8 @@
   is_pi: False
   is_current: True
   position: Research Associate
+  researchgate: https://www.researchgate.net/profile/Miguel_Alcaide
+  scholar: https://scholar.google.ca/citations?hl=en&user=5Jig5G4AAAAJ
   bio: >
     My main role at the Morin lab focuses on the development and 
     implementation of assays with potential utility in the genetic 
