@@ -166,6 +166,7 @@
   is_pi: False
   is_current: True
   position: PhD Student
+  github: https://github.com/ppararaj
   bio: >
     My PhD project has me exploring the molecular aetiology of mantle
     cell lymphoma (MCL) using a combination of data types and a variety of bioinformatic
