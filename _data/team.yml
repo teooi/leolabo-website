@@ -116,6 +116,7 @@
   is_pi: False
   is_current: True
   position: PhD Student
+  scholar: https://scholar.google.ca/citations?user=xHoNHKEAAAAJ&hl=en
   bio: >
     As the first bioinformatics graduate student in the lab, I've played 
     a role in several projects, each involving cancer genomics to some 
@@ -260,6 +261,7 @@
   is_pi: False
   is_current: False
   position: MSc Student
+  scholar: https://scholar.google.ca/citations?user=OxP8_oIAAAAJ&hl=en
   bio: >
     Lymphoma is the most common cancer affecting pet dogs. Kevin used 
     genomic techniques to identify mutations involved in lymphomagenesis 
