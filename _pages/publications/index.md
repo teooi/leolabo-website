@@ -5,7 +5,7 @@ permalink: /publications/
 toggle: on
 rank: 4
 ---
-
+&ast;Authours contributed equally
 
 ## 2018
 
@@ -23,7 +23,7 @@ Methods Mol Biol. 2018;1768:275-301. doi: 10.1007/978-1-4939-7778-9\_16.
 
 [**The genomic landscape of two Burkitt lymphoma cases and derived cell lines: comparison between primary and relapse samples.**](https://www.ncbi.nlm.nih.gov/pubmed/29295643)
 <br>
-Wever CM, Geoffrion D, **Grande BM**, **Yu S**, **Alcaide M**, Lemaire M, Riazalhosseini Y, Hébert J, Gavino C, Vinh DC, Petrogiannis-Haliotis T, Dmitrienko S, Mann KK, **Morin RD**, Johnson NA.
+Wever CM, Geoffrion D, **Grande BM**, **Yu S**, **Alcaide M**, Lemaire M, Riazalhosseini Y, Hébert J, Gavino C, Vinh DC, Petrogiannis-Haliotis T, Dmitrienko S, Mann KK, **Morin RD**&ast;, Johnson NA&ast;.
 <br>
 Leuk Lymphoma. 2018 Sep;59(9):2159-2174. doi: 10.1080/10428194.2017.1413186. 
 
