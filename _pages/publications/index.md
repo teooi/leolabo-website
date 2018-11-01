@@ -5,13 +5,13 @@ permalink: /publications/
 toggle: on
 rank: 4
 ---
-&ast;Authours contributed equally
+&ast;Authors contributed equally
 
 ## 2018
 
 [**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
 <br>
-**Arthur SE**, **Jiang A**, **Grande BM**, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
+**Arthur SE**&ast;, **Jiang A**&ast;, **Grande BM**&ast;, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
 <br>
 Nat Commun. 2018 Oct 1;9(1):4001. doi: 10.1038/s41467-018-06354-3.
 
@@ -42,7 +42,7 @@ Sci Rep. 2017 Sep 5;7(1):10574. doi: 10.1038/s41598-017-10269-2.
 
 [**Investigating the Genetic Causes of Sudden Unexpected Death in Children Through Targeted Next-Generation Sequencing Analysis.**](https://www.ncbi.nlm.nih.gov/pubmed/28807990)
 <br>
-Dewar LJ, **Alcaide M**, **Fornika D**, **D'Amato L**, Shafaatalab S, Stevens CM, Balachandra T, Phillips SM, Sanatani S, **Morin RD**, Tibbits GF.
+Dewar LJ&ast;, **Alcaide M**&ast;, **Fornika D**, **D'Amato L**, Shafaatalab S, Stevens CM, Balachandra T, Phillips SM, Sanatani S, **Morin RD**&ast;, Tibbits GF&ast;.
 <br>
 Circ Cardiovasc Genet. 2017 Aug;10(4). pii: e001738. doi: 10.1161/CIRCGENETICS.116.001738.
 
