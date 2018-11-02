@@ -38,8 +38,8 @@
     implementation of assays with potential utility in the genetic 
     stratification, non-invasive monitoring and management of cancer 
     patients. 
-    We have developed assays relying on targeted hybridization capture 
-    followed by high throughput sequencing as well as assays relying on 
+    We have developed assays relying on <a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">targeted hybridization capture 
+    followed by high throughput sequencing</a> as well as assays relying on 
     droplet digital PCR (ddPCR). 
     I am particularly interested in the development and optimization of 
     molecular techinques for the ultrasensitive and straightforward 
