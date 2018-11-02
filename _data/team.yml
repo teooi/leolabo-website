@@ -40,13 +40,13 @@
     patients. 
     We have developed assays relying on <a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">targeted hybridization capture 
     followed by high throughput sequencing</a> as well as assays relying on 
-    <a href="https://www.ncbi.nlm.nih.gov/pubmed/27440511">droplet digital PCR (ddPCR)</a>. 
+    droplet digital PCR (ddPCR). 
     I am particularly interested in the development and optimization of 
     molecular techinques for the ultrasensitive and straightforward 
     detection of tumour-derived DNA fragments. 
     Detection and quantification of circulating tumour DNA (ctDNA) via 
     duplex sequencing with semi-degenerate barcoded adapters and the use 
-    of wild-type specific hydrolysis probes (“inverted” ddPCR) to detect 
+    of wild-type specific hydrolysis probes <a href="https://www.ncbi.nlm.nih.gov/pubmed/27440511">(“inverted” ddPCR)</a> to detect 
     multiple recurrent somatic mutations of clinical relevance are 
     amongst my main contributions into this growing area of research.
     Currently, I am involved in different projects related to the genetic 
