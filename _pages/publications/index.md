@@ -5,7 +5,7 @@ permalink: /publications/
 toggle: on
 rank: 4
 ---
-&ast;Authors contributed equally
+\*Authors contributed equally
 
 ## 2018
 
@@ -42,7 +42,7 @@ Sci Rep. 2017 Sep 5;7(1):10574. doi: 10.1038/s41598-017-10269-2.
 
 [**Investigating the Genetic Causes of Sudden Unexpected Death in Children Through Targeted Next-Generation Sequencing Analysis.**](https://www.ncbi.nlm.nih.gov/pubmed/28807990)
 <br>
-Dewar LJ&ast;, **Alcaide M**&ast;, **Fornika D**, **D'Amato L**, Shafaatalab S, Stevens CM, Balachandra T, Phillips SM, Sanatani S, **Morin RD**&ast;, Tibbits GF&ast;.
+Dewar LJ\*, **Alcaide M**\*, **Fornika D**, **D'Amato L**, Shafaatalab S, Stevens CM, Balachandra T, Phillips SM, Sanatani S, **Morin RD**&ast;, Tibbits GF&ast;.
 <br>
 Circ Cardiovasc Genet. 2017 Aug;10(4). pii: e001738. doi: 10.1161/CIRCGENETICS.116.001738.
 
