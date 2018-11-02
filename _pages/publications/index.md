@@ -75,7 +75,7 @@ Mol Cancer Res. 2016 Oct;14(10):898-908.
 
 [**Phase 2 study of panobinostat with or without rituximab in relapsed diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/27166360)
 <br>
-Assouline SE, Nielsen TH, **Yu S**, **Alcaide M**, **Chong L**, MacDonald D, Tosikyan A, Kukreti V, Kezouh A, Petrogiannis-Haliotis T, **Albuquerque M**, **Fornika D**, **Alamouti S**, Froment R, Greenwood CM, Oros KK, Camglioglu E, Sharma A, Christodoulopoulos R, Rousseau C, Johnson N, Crump M, **Morin RD**&ast;, Mann KK&ast;.
+Assouline SE, Nielsen TH, **Yu S**, **Alcaide M**, **Chong L**, MacDonald D, Tosikyan A, Kukreti V, Kezouh A, Petrogiannis-Haliotis T, **Albuquerque M**, **Fornika D**, **Alamouti S**, Froment R, Greenwood CM, Oros KK, Camglioglu E, Sharma A, Christodoulopoulos R, Rousseau C, Johnson N, Crump M, **Morin RD**\*, Mann KK\*.
 <br>
 Blood. 2016 Jul 14;128(2):185-94. doi: 10.1182/blood-2016-02-699520. 
 
