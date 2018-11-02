@@ -11,7 +11,7 @@ rank: 4
 
 [**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
 <br>
-**Arthur SE**&ast;, **Jiang A**&ast;, **Grande BM**&ast;, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
+**Arthur SE**\*, **Jiang A**\*, **Grande BM**&ast;, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
 <br>
 Nat Commun. 2018 Oct 1;9(1):4001. doi: 10.1038/s41467-018-06354-3.
 
