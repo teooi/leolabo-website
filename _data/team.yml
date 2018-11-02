@@ -196,6 +196,7 @@
 - name: Jeffrey Tang
   is_pi: False
   is_current: True
+  github: https://github.com/jeffstang
   position: MSc Student
   bio: >
     Recent studies have identified 4 or 5 genetic subgroups in DLBCL, which 
