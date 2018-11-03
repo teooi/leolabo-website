@@ -149,7 +149,7 @@
   position: PhD Student
   bio: >
     My project in the lab is focused on the characterization of novel 
-    NFKBIZ 3’ UTR mutations we previously discovered in DLBCL. 
+    <a href="https://www.ncbi.nlm.nih.gov/pubmed/30275490">NFKBIZ 3’ UTR mutations</a> we previously discovered in DLBCL. 
     These mutations were discovered through a project searching for 
     genome-wide non-coding mutations and found to be significantly 
     enriched in the ABC sub-type of DLBCL. 
