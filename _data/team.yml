@@ -305,7 +305,15 @@
   bio: >
   
   photo: team/harry.jpg
+
+- name: Jordan Davidson
+  is_pi: False
+  is_current: False
+  position: Undergraduate researcher
+  bio: >
   
+  photo: team/harry.jpg
+
 - name: Elie Ritch
   is_pi: False
   is_current: False
