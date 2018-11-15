@@ -6,6 +6,7 @@ toggle: on
 rank: 4
 ---
 \*Authors contributed equally
+**Members of the Morin laboratory**
 
 ## 2018
 
