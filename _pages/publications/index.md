@@ -5,7 +5,8 @@ permalink: /publications/
 toggle: on
 rank: 4
 ---
-\*Authors contributed equally
+\*Authors contributed equally<br>
+
 **Members of the Morin laboratory**
 
 ## 2018
