@@ -7,7 +7,7 @@ rank: 4
 ---
 \*Authors contributed equally<br>
 
-**Members of the Morin laboratory**
+Members of the Morin laboratory indicated in **boldface**
 
 ## 2018
 
