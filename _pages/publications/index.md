@@ -11,7 +11,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2018
 
-**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**
+**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**<br>
 **Alcaide M**, **Cheung M**, **Bushell K**, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**.<br>
 Journal of Molecular Diagnostics (In Press)
 
