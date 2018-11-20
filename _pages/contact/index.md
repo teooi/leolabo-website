@@ -10,8 +10,8 @@ rank: 7
 <script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
 </head>
 
-<H3>We are currently seeking a full-time technician/research assistant </H3>
-Experience in methods of sample (library) preparation for Illumina sequencing and experience with operation/maintenance of MiSeq and/or other Illumina sequencers would be an asset. Training in standard molecular techniques such as cloning, site-diriected mutagenesis, quantitative (or digital) PCR is essential. The ideal candidate would be comfortable with routine maintenance, culture and viral transduction of mammalian cell lines. 
+<H3>We are inviting applications for technician/research assistant </H3>
+The ideal candidate would have a track record in successful application of methods of sample (library) preparation for Illumina sequencing. Experience with operation/maintenance of MiSeq and/or other Illumina sequencers would be an asset. Training in standard molecular techniques such as cloning, site-diriected mutagenesis, quantitative (or digital) PCR is essential. The ideal candidate would be comfortable with routine maintenance/culture and genetic manipulation (e.g. viral packaging and transduction) of mammalian cell lines. 
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="email" name="email" placeholder="Enter your email"><br>
