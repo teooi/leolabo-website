@@ -11,7 +11,7 @@ rank: 7
 </head>
 
 <H3>We are inviting applications for technician/research assistant </H3>
-The ideal candidate would have a track record in successful application of methods of sample (library) preparation for Illumina sequencing. Experience with operation/maintenance of MiSeq and/or other Illumina sequencers would be an asset. Training in standard molecular techniques such as cloning, site-diriected mutagenesis, quantitative (or digital) PCR is essential. The ideal candidate would be comfortable with routine maintenance/culture and genetic manipulation (e.g. viral packaging and transduction) of mammalian cell lines. 
+The ideal candidate would have a track record in successful application of methods of sample (library) preparation for Illumina sequencing. Experience with operation/maintenance of MiSeq and/or other Illumina sequencers would be an asset. Training in standard molecular techniques such as cloning, site-diriected mutagenesis, quantitative (or digital) PCR is essential. The ideal candidate would be comfortable with routine maintenance/culture and genetic manipulation (e.g. viral packaging and transduction) of mammalian cell lines. Applicants with experience working in academic laboratories in a similar position seeking a full-time position within our vibrant research group are encouraged to apply. Diversity is an integral part of Canadian history, culture, and identity. In the Morin laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="email" name="email" placeholder="Enter your email"><br>
