@@ -11,6 +11,10 @@ rank: 4
 
 ## 2018
 
+**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**
+**Alcaide M**, **Cheung M**, **Bushell K**, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**.<br>
+Journal of Molecular Diagnostics (In Press)
+
 [**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
 <br>
 **Arthur SE**\*, **Jiang A**\*, **Grande BM**\*, **Alcaide M**, Cojocaru R, **Rushton CK**, Mottok A, **Hilton LK**, Lat PK, Zhao EY, Culibrk L, Ennishi D, **Jessa S**, **Chong L**, **Thomas N**, **Pararajalingam P**, Meissner B, Boyle M, **Davidson J**, **Bushell KR**, Lai D, Farinha P, Slack GW, Morin GB, Shah S, Sen D, Jones SJM, Mungall AJ, Gascoyne RD, Audas TE, Unrau P, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD**.
