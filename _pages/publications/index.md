@@ -11,6 +11,11 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2018
 
+[**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**]
+(https://ash.confex.com/ash/2018/webprogram/Paper116827.html)<br>
+Ennishi D, **Jiang A**, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**, and **Scott DW**. <br>
+ASH Annual meeting, 2018. 
+
 **A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**<br>
 **Alcaide M**, **Cheung M**, **Bushell K**, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**.<br>
 Journal of Molecular Diagnostics (In Press)
