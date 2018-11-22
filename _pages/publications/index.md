@@ -11,8 +11,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2018
 
-[**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**]
-(https://ash.confex.com/ash/2018/webprogram/Paper116827.html)<br>
+[**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](https://ash.confex.com/ash/2018/webprogram/Paper116827.html)<br>
 Ennishi D, **Jiang A**, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**, and **Scott DW**. <br>
 ASH Annual meeting, 2018. 
 
