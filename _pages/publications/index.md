@@ -16,8 +16,8 @@ Ennishi D, **Jiang A**, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rush
 ASH Annual meeting, 2018. 
 
 [**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**](https://jmd.amjpathol.org/article/S1525-1578(18)30114-4/fulltext)<br>
-**Alcaide M**, **Cheung M**, **Bushell K**, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**.<br>
-Journal of Molecular Diagnostics (In Press)
+**\*Alcaide M**, **\*Cheung M**, **\*Bushell K**, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**.<br>
+Journal of Molecular Diagnostics. 2018 10.1016/j.jmoldx.2018.09.007
 
 [**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
 <br>
