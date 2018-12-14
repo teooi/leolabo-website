@@ -33,8 +33,10 @@ rank: 3
 3. [Enhancing knowledge discovery from cancer genomics data with Galaxy](https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/gix015)
 
 **Data Sets**
-[73 paired de novo DLBCL genomes](https://ega-archive.org/studies/EGAS00001002936)
-[30 paired relapsed/refractory DLBCL exomes](https://ega-archive.org/datasets/EGAD00001003395)
+
+* [73 paired de novo DLBCL genomes](https://ega-archive.org/studies/EGAS00001002936)
+* [30 paired relapsed/refractory DLBCL exomes](https://ega-archive.org/datasets/EGAD00001003395)
+
 **Contributors**
 
 * [Chris Rushton](https://github.com/ckrushton)
