@@ -9,11 +9,8 @@ rank: 7
     <script>UPLOADCARE_PUBLIC_KEY = "9ece2f24515da2c6390d";</script>
 <script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
 </head>
-
-<H3>Job opening for technician/research assistant </H3>
-The laboratory of Dr. Ryan Morin (Simon Fraser University, Burnaby Campus) is seeking a full-time technician/research assistant to assist in our interdisciplinary and translational research program to elucidate and characterize molecular features of treatment resistance in aggressive lymphomas. The ideal candidate would have a track record in successful application of methods of sample (library) preparation for Illumina sequencing (DNA, RNA-seq, ChIP-seq) and familiarity with hybridization capture protocols. Experience with operation and routine maintenance of MiSeq and/or other Illumina sequencers would be an asset. Expertise in standard molecular techniques such as cloning, site-directed mutagenesis, quantitative (or digital) PCR is essential. Familiarity with techniques for in vitro production and manipulation of RNA would be beneficial though not required. Applicants should be comfortable with routine maintenance/culture and genetic manipulation (e.g. viral packaging and transduction) of mammalian cell lines. Applicants with prior experience in academic laboratories in a similar position seeking a full-time position within our vibrant research group are encouraged to apply. Diversity is an integral part of Canadian history, culture, and identity. In the Morin laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer. 
-
 <H3>We always welcome applications for postdoctoral fellowship positions</H3>
+Diversity is an integral part of Canadian history, culture, and identity. In the Morin laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer. 
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="email" name="email" placeholder="Enter your email"><br>
