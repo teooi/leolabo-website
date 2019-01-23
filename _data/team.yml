@@ -249,7 +249,7 @@
 
 - name: Tony Ngo
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate researcher
   bio: >
     I am an undergraduate student completing a BSc in MBB and joined the laboratory after completing MBB 342.
