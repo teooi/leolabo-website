@@ -9,6 +9,9 @@ rank: 3
 <div style="margin-bottom: 50px;">
     <img class="float-right" width="50%" src="{{ 'projects/wordcloud.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
+**Binary classification of cancer samples from gene expression data**
+
+[PRPS](https://github.com/ajiangsfu/PRPS)
 
 **Infering clustered mutations from many cancer genomes**
 
