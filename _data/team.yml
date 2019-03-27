@@ -213,7 +213,7 @@
     capture novel groups to better describe clinical 
     heterogeneity in DLBCL.
   photo: team/jtang.jpg
-
+  
 - name: Nicole Thomas
   is_pi: False
   is_current: True
@@ -225,6 +225,13 @@
     Whole Genome Sequencing data, to identify mutations and single nucleotide polymorphisms that affect the alternative
     splicing of RNA transcripts.
   photo: team/nthomas.jpg
+
+- name: Leah Tooman
+  is_pi: False
+  is_current: True
+  position: Research Assistant
+  bio: > 
+  photo: team/harry.jpg
 
 - name: Krishanna Campbell
   is_pi: False
