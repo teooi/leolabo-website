@@ -255,6 +255,14 @@
     I enjoy long walks on the beach, deep conversation, holding hands, romance novels, pruning the garden, skinny dipping and piggy-back rides.
   photo: team/mcheung.jpg
 
+- name: Jack Hillman
+  is_pi: False
+  is_current: True
+  position: Undergraduate researcher (NSERC USRA)
+  bio: >
+    I assist with a variety of ongoing projects in the lab. I am currently performing hybridization capture to sequence several lymphoma-related genes in human and canine tumour samples.
+  photo: team/harry.jpg
+
 - name: Tony Ngo
   is_pi: False
   is_current: False
