@@ -255,6 +255,14 @@
     I enjoy long walks on the beach, deep conversation, holding hands, romance novels, pruning the garden, skinny dipping and piggy-back rides.
   photo: team/mcheung.jpg
 
+- name: Matthew "the other Matt" Nguyen
+  is_pi: False
+  is_current: True
+  position: Undergraduate bioinformatician (NSERC USRA)
+  bio: >
+    I am refining and extending an algorithm for inferring sites of recurrent non-coding mutations in cancer genomes to help identify putative cis regulatory mutations.
+  photo: team/harry.jpg
+
 - name: Jack Hillman
   is_pi: False
   is_current: True
