@@ -117,19 +117,19 @@
     }
 }
 
-.no-padding   { 
-    padding: 0 !important; 
+.no-padding   {
+    padding: 0 !important;
 }
 
-.trigger { 
+.trigger {
     float: left;
     width: 100%;
     overflow: hidden;
     position:relative;
-    height: 39px; 
+    height: 39px;
 }
 
-.trigger ul { 
+.trigger ul {
     clear: left;
     height: 39px;
     float: left;
@@ -137,7 +137,7 @@
     margin: 0;
     padding: 0;
     position: relative;
-    text-align: center; 
+    text-align: center;
 }
 
 .trigger ul li {
@@ -148,7 +148,7 @@
     margin: 0;
     height: 39px;
     position: relative;
-    right: 50%; 
+    right: 50%;
 }
 
 .trigger ul li a {
@@ -158,9 +158,9 @@
     padding: 0 32px;
 }
 
-.trigger ul li .active { 
-    margin: 0; 
-    padding: 0 !important; 
+.trigger ul li .active {
+    margin: 0;
+    padding: 0 !important;
 }
 
 
@@ -228,7 +228,7 @@
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 
-    .contact-list, 
+    .contact-list,
     .social-media-list {
         text-align: left;
     }
@@ -365,4 +365,22 @@ h1.post-title {
 
 .member-photo {
     width: 40%;
+}
+
+.lab-photo {
+    margin-left: calc(-100vw / 2 + (800px - (30px * 2)) / 2);
+    margin-right: calc(-100vw / 2 + (800px - (30px * 2)) / 2);
+    margin-bottom: 1em;
+}
+
+@include media-query($on-laptop) {
+    .lab-photo {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 1em;
+    }
+}
+
+.lab-photo img {
+    border-radius: 0em;
 }
