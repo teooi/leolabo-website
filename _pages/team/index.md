@@ -7,7 +7,7 @@ rank: 2
 ---
 
 <div style="margin-bottom: 50px;">
-    <img src="{{ 'team/lab_photo-2019-05-09-after.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'team/lab_2019.jpg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 <div class="lab-wrapper">
