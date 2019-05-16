@@ -258,6 +258,7 @@
   is_pi: False
   is_current: True
   position: Undergraduate bioinformatician (NSERC USRA)
+  github: https://github.com/matnguyen
   bio: >
     I am refining and extending an algorithm for inferring sites of recurrent non-coding mutations in cancer genomes to help identify putative cis regulatory mutations.
   photo: team/mnguyen.jpg
