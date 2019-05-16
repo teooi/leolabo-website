@@ -8,22 +8,22 @@
   github: https://github.com/rdmorin
   twitter: https://twitter.com/morinryan
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at 
+    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
     <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of 
+    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
     Marco Marra.
-    My early research involved the use of massively parallel 
-    sequencing to identify driver mutations in leukemias and lymphomas 
+    My early research involved the use of massively parallel
+    sequencing to identify driver mutations in leukemias and lymphomas
     including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome 
-    sequencing to discover novel drivers in B-cell lymphomas and to 
-    determine mechanisms that underlie tumour progression and treatment 
-    resistance. 
-    I have a general interest in developing methods to identify non-coding 
-    mutations with regulatory potential from genome-wide data sets and 
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating 
+    My current research focus involves using genome and transcriptome
+    sequencing to discover novel drivers in B-cell lymphomas and to
+    determine mechanisms that underlie tumour progression and treatment
+    resistance.
+    I have a general interest in developing methods to identify non-coding
+    mutations with regulatory potential from genome-wide data sets and
+    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
     tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
-    
+
   photo: team/rmorin.jpg
 
 - name: Dr. Miguel Alcaide
@@ -33,28 +33,28 @@
   researchgate: https://www.researchgate.net/profile/Miguel_Alcaide
   scholar: https://scholar.google.ca/citations?hl=en&user=5Jig5G4AAAAJ
   bio: >
-    My main role at the Morin lab focuses on the development and 
-    implementation of assays with potential utility in the genetic 
-    stratification, non-invasive monitoring and management of cancer 
-    patients. 
-    We have developed assays relying on <a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">targeted hybridization capture 
-    followed by high throughput sequencing</a> as well as assays relying on 
-    droplet digital PCR (ddPCR). 
-    I am particularly interested in the development and optimization of 
-    molecular techinques for the ultrasensitive and straightforward 
-    detection of tumour-derived DNA fragments. 
-    Detection and quantification of circulating tumour DNA (ctDNA) via 
-    duplex sequencing with semi-degenerate barcoded adapters and the use 
-    of wild-type specific hydrolysis probes <a href="https://www.ncbi.nlm.nih.gov/pubmed/27440511">(“inverted” ddPCR)</a> to detect 
-    multiple recurrent somatic mutations of clinical relevance are 
+    My main role at the Morin lab focuses on the development and
+    implementation of assays with potential utility in the genetic
+    stratification, non-invasive monitoring and management of cancer
+    patients.
+    We have developed assays relying on <a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">targeted hybridization capture
+    followed by high throughput sequencing</a> as well as assays relying on
+    droplet digital PCR (ddPCR).
+    I am particularly interested in the development and optimization of
+    molecular techinques for the ultrasensitive and straightforward
+    detection of tumour-derived DNA fragments.
+    Detection and quantification of circulating tumour DNA (ctDNA) via
+    duplex sequencing with semi-degenerate barcoded adapters and the use
+    of wild-type specific hydrolysis probes <a href="https://www.ncbi.nlm.nih.gov/pubmed/27440511">(“inverted” ddPCR)</a> to detect
+    multiple recurrent somatic mutations of clinical relevance are
     amongst my main contributions into this growing area of research.
-    Currently, I am involved in different projects related to the genetic 
-    characterization of different types of Non-Hodgkin Lymphoma, and the 
-    detection, quantification and serial monitoring of ctDNA in cancer 
-    patients, including those enrolled in the personalized oncogenomics 
-    project (POG). We are also starting to apply our error-correction 
-    duplex sequencing approach for the sequencing of ancient DNA, 
-    including archaeological specimens of both pacific salmons and 
+    Currently, I am involved in different projects related to the genetic
+    characterization of different types of Non-Hodgkin Lymphoma, and the
+    detection, quantification and serial monitoring of ctDNA in cancer
+    patients, including those enrolled in the personalized oncogenomics
+    project (POG). We are also starting to apply our error-correction
+    duplex sequencing approach for the sequencing of ancient DNA,
+    including archaeological specimens of both pacific salmons and
     woolly dogs.
   photo: team/malcaide.jpg
 
@@ -65,21 +65,21 @@
   github: https://github.com/ajiangsfu
   bio: >
     I am a statistician and a bioinformatician at times.
-    Although I had several years' experience in a molecular biology lab 
-    and did tissue/cell culture, DNA and RNA isolation, real-time PCR, 
-    quantitative and qualitative reverse transcriptase PCR (RT-PCR), 
-    cloning, western blots, southern blots, yeast 2-hybrid (Y2H) assay, 
-    microarray, even manually sequencing and so on; 
-    I have been focusing on statistical analysis since 2002. 
+    Although I had several years' experience in a molecular biology lab
+    and did tissue/cell culture, DNA and RNA isolation, real-time PCR,
+    quantitative and qualitative reverse transcriptase PCR (RT-PCR),
+    cloning, western blots, southern blots, yeast 2-hybrid (Y2H) assay,
+    microarray, even manually sequencing and so on;
+    I have been focusing on statistical analysis since 2002.
 
-    My daily work involves data analysis, statistical consulting, and of 
-    course statistical programming. 
-    My research interesting, however, is to develop customized statistical 
-    algorithms to solve biological researches problems, especially for 
-    high dimensional data. 
+    My daily work involves data analysis, statistical consulting, and of
+    course statistical programming.
+    My research interesting, however, is to develop customized statistical
+    algorithms to solve biological researches problems, especially for
+    high dimensional data.
     My recent researches are to identify mutation peaks/ranges and build
-    up new <a href="https://www.ncbi.nlm.nih.gov/pubmed/30523716">classification models</a> that can be transformed to different 
-    data sets and even different platforms. 
+    up new <a href="https://www.ncbi.nlm.nih.gov/pubmed/30523716">classification models</a> that can be transformed to different
+    data sets and even different platforms.
   photo: team/ajiang.jpg
 
 - name: Dr. Laura Hilton
@@ -88,16 +88,16 @@
   position: Postdoctoral Fellow
   orcid: https://orcid.org/0000-0002-6413-6586
   bio: >
-    My current research goal is to identify genetic features that 
-    underlie elevated expression and somatic amplification of the FCGR2B 
-    gene as a driver of treatment resistance. 
-    Because Fc-gamma receptor IIB promotes the internalization of rituximab, 
-    a monoclonal antibody used in the treatment of most non-Hodgkin 
-    lymphomas, patients with high FCGR2B expression experience inferior 
-    outcomes relative to patients with low FCGR2B expression. 
-    My project involves both wet and dry lab components, using analysis 
-    of RNAseq and whole genome and exome sequencing data to identify 
-    candidate drivers of FCGR2B expression, and functionally 
+    My current research goal is to identify genetic features that
+    underlie elevated expression and somatic amplification of the FCGR2B
+    gene as a driver of treatment resistance.
+    Because Fc-gamma receptor IIB promotes the internalization of rituximab,
+    a monoclonal antibody used in the treatment of most non-Hodgkin
+    lymphomas, patients with high FCGR2B expression experience inferior
+    outcomes relative to patients with low FCGR2B expression.
+    My project involves both wet and dry lab components, using analysis
+    of RNAseq and whole genome and exome sequencing data to identify
+    candidate drivers of FCGR2B expression, and functionally
     characterizing these candidates in cell lines.
   photo: team/lhilton.jpg
 
@@ -110,14 +110,14 @@
   researchgate: https://www.researchgate.net/profile/Krysta_Coyle
   twitter: https://twitter.com/microbialkrysta
   bio: >
-    My research aims to understand the role of recurrent cis-regulatory 
-    mutations in mantle cell lymphoma (MCL). 
-    Specifically, I am characterizing a potential role for alternative 
-    splicing in the progression of MCL. 
-    This work uses a variety of molecular biology tools and bioinformatic 
-    approaches to determine how mutations in RNA binding proteins 
-    affect in vitro cell behaviour. 
-    I am a passionate advocate for equity, diversity, and inclusion and 
+    My research aims to understand the role of recurrent cis-regulatory
+    mutations in mantle cell lymphoma (MCL).
+    Specifically, I am characterizing a potential role for alternative
+    splicing in the progression of MCL.
+    This work uses a variety of molecular biology tools and bioinformatic
+    approaches to determine how mutations in RNA binding proteins
+    affect in vitro cell behaviour.
+    I am a passionate advocate for equity, diversity, and inclusion and
     enjoy communicating science to kids and adults alike.
   photo: team/kcoyle.jpg
 
@@ -129,20 +129,20 @@
   github: https://github.com/scientificbruno
   orcid:  https://orcid.org/0000-0002-4621-1589
   bio: >
-    As the first bioinformatics graduate student in the lab, I've played 
-    a role in several projects, each involving cancer genomics to some 
+    As the first bioinformatics graduate student in the lab, I've played
+    a role in several projects, each involving cancer genomics to some
     degree.
-    Currently, my primary project is the genetic and molecular 
+    Currently, my primary project is the genetic and molecular
     characterization of paediatric Burkitt lymphoma (BL).
     Defined by an epidemiological association with the Epstein–Barr virus
     and malaria, the endemic variant of BL has been understudied compared
     to sporadic BL, which is diagnosed in developed countries.
-    I lead the analysis of whole genome and transcriptome sequencing data 
-    derived from over 100 cases, which has led to <a href="https://www.ncbi.nlm.nih.gov/pubmed/30617194">breakthroughs</a> in our 
+    I lead the analysis of whole genome and transcriptome sequencing data
+    derived from over 100 cases, which has led to <a href="https://www.ncbi.nlm.nih.gov/pubmed/30617194">breakthroughs</a> in our
     understanding of BL pathogenesis.
     On the side, I'm an advocate for open and reproducible science, a
-    Software Carpentry instructor teaching programming to researchers, 
-    and the co-founder of the Scientific Programming Study Group at SFU 
+    Software Carpentry instructor teaching programming to researchers,
+    and the co-founder of the Scientific Programming Study Group at SFU
     (SciProg.ca) and the annual Hackseq genomics hackathon.
   photo: team/bgrande.jpg
 
@@ -151,17 +151,17 @@
   is_current: True
   position: PhD Student
   bio: >
-    My project in the lab is focused on the characterization of novel 
-    <a href="https://www.ncbi.nlm.nih.gov/pubmed/30275490">NFKBIZ 3’ UTR mutations</a> we previously discovered in DLBCL. 
-    These mutations were discovered through a project searching for 
-    genome-wide non-coding mutations and found to be significantly 
-    enriched in the ABC sub-type of DLBCL. 
-    My research involves functional analysis of these mutations in 
-    DLBCL cell lines and in vivo mouse xenograft models to determine 
-    how these mutations lead to activation of the NF-kB pathway and 
-    contribute to DLBCL. 
-    I am also working to determine the structure of the NFKBIZ 3’ UTR 
-    and how mutations lead to changes that affect the regulation of 
+    My project in the lab is focused on the characterization of novel
+    <a href="https://www.ncbi.nlm.nih.gov/pubmed/30275490">NFKBIZ 3’ UTR mutations</a> we previously discovered in DLBCL.
+    These mutations were discovered through a project searching for
+    genome-wide non-coding mutations and found to be significantly
+    enriched in the ABC sub-type of DLBCL.
+    My research involves functional analysis of these mutations in
+    DLBCL cell lines and in vivo mouse xenograft models to determine
+    how these mutations lead to activation of the NF-kB pathway and
+    contribute to DLBCL.
+    I am also working to determine the structure of the NFKBIZ 3’ UTR
+    and how mutations lead to changes that affect the regulation of
     this gene.
   photo: team/sarthur.jpg
 
@@ -175,7 +175,7 @@
     cell lymphoma (MCL) using a combination of data types and a variety of bioinformatic
     techniques. My analysis of the mutational landscape of MCL has
     revealed an enrichment of mutations in splicing factors and RNA-binding proteins. Currently,
-    I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours. 
+    I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours.
   photo: team/ppararajalingam.jpg
 
 - name: Christopher Rushton
@@ -184,15 +184,15 @@
   position: PhD Student
   github: https://github.com/ckrushton
   bio: >
-    My research project focuses on identifying mutations in patients with relapsed Diffuse Large B-Cell Lymphoma; specifically, 
-    the analysis of liquid biopsies obtained from these patients. As cells undergo apoptosis, apoptotic bodies containing DNA 
-    are released into the bloodstream, and this DNA is called cell-free DNA. In patients with cancer, a portion of this 
-    cell-free DNA originates from malignant cells, termed circulating-tumour DNA. Thus, we can obtain tumour genetic material 
-    simply by obtaining a blood sample (called a liquid biopsy), which is less invasive and significantly cheaper than traditional 
-    biopsies. Due to the unique nature of liquid biopsies, I am currently developing several pieces of software for analyzing 
-    and benchmarking existing mutation-calling tools for use with these types of samples. I am applying these tools to samples 
-    collected from several clinical trials where liquid biopsies are collected after patients are treated. By comparing the 
-    mutation landscape of these patients prior to and following treatment, we identify mutations enriched following treatment, 
+    My research project focuses on identifying mutations in patients with relapsed Diffuse Large B-Cell Lymphoma; specifically,
+    the analysis of liquid biopsies obtained from these patients. As cells undergo apoptosis, apoptotic bodies containing DNA
+    are released into the bloodstream, and this DNA is called cell-free DNA. In patients with cancer, a portion of this
+    cell-free DNA originates from malignant cells, termed circulating-tumour DNA. Thus, we can obtain tumour genetic material
+    simply by obtaining a blood sample (called a liquid biopsy), which is less invasive and significantly cheaper than traditional
+    biopsies. Due to the unique nature of liquid biopsies, I am currently developing several pieces of software for analyzing
+    and benchmarking existing mutation-calling tools for use with these types of samples. I am applying these tools to samples
+    collected from several clinical trials where liquid biopsies are collected after patients are treated. By comparing the
+    mutation landscape of these patients prior to and following treatment, we identify mutations enriched following treatment,
     which may contribute to tumour treatment resistance.
   photo: team/crushton.jpg
 
@@ -202,17 +202,17 @@
   github: https://github.com/jeffstang
   position: MSc Student
   bio: >
-    Recent studies have identified 4 or 5 genetic subgroups in DLBCL, which 
-    present a novel method of classification for alternative treatment 
-    strategies. 
-    My project aims to expand on classifying these subgroups 
-    in DLBCL using a machine learning approaches utilizing molecular indicators such as mutation status from a set 
-    of genes and hot spots, copy number status and cell-of-origin. 
-    I hope to consolidate subtypes from these studies as well as to 
-    capture novel groups to better describe clinical 
+    Recent studies have identified 4 or 5 genetic subgroups in DLBCL, which
+    present a novel method of classification for alternative treatment
+    strategies.
+    My project aims to expand on classifying these subgroups
+    in DLBCL using a machine learning approaches utilizing molecular indicators such as mutation status from a set
+    of genes and hot spots, copy number status and cell-of-origin.
+    I hope to consolidate subtypes from these studies as well as to
+    capture novel groups to better describe clinical
     heterogeneity in DLBCL.
   photo: team/jtang.jpg
-  
+
 - name: Nicole Thomas
   is_pi: False
   is_current: True
@@ -229,8 +229,8 @@
   is_pi: False
   is_current: True
   position: Research Assistant
-  bio: > 
-  photo: team/harry.jpg
+  bio: >
+  photo: team/ltooman.jpg
 
 - name: Krishanna Campbell
   is_pi: False
@@ -241,7 +241,7 @@
     My duties include the routine processing of blood samples to isolate plasma and cell pellet for later analysis ( eg. Circulating tumor DNA)
     along with purification of the cell-free DNA from plasmas utilizing the MagMax cell-free DNA isolation kit and subsequent procedures.
     I also assist in the canine B-cell lymphoma project specifically in the wet lab setting. I have a complete obsession with anything to do with animals and currently volunteer at a veterinary hospital.
-    I plan to study veterinary medicine after completing my BSc. 
+    I plan to study veterinary medicine after completing my BSc.
   photo: team/peanut.png
 
 - name: Matt Cheung
@@ -250,17 +250,17 @@
   position: Undergraduate researcher
   bio: >
     I assist with a variety of ongoing projects in the lab.
-    Most recently I have been implementing <a href="https://www.ncbi.nlm.nih.gov/pubmed/30472330">multiplex ddPCR assays</a> for identifying common hot spot mutations in KRAS. 
+    Most recently I have been implementing <a href="https://www.ncbi.nlm.nih.gov/pubmed/30472330">multiplex ddPCR assays</a> for identifying common hot spot mutations in KRAS.
     I enjoy long walks on the beach, deep conversation, holding hands, romance novels, pruning the garden, skinny dipping and piggy-back rides.
   photo: team/mcheung.jpg
 
-- name: Matthew "the other Matt" Nguyen
+- name: Matthew Nguyen
   is_pi: False
   is_current: True
   position: Undergraduate bioinformatician (NSERC USRA)
   bio: >
     I am refining and extending an algorithm for inferring sites of recurrent non-coding mutations in cancer genomes to help identify putative cis regulatory mutations.
-  photo: team/harry.jpg
+  photo: team/mnguyen.jpg
 
 - name: Jack Hillman
   is_pi: False
@@ -268,7 +268,7 @@
   position: Undergraduate researcher (NSERC USRA)
   bio: >
     I assist with a variety of ongoing projects in the lab. I am currently performing hybridization capture to sequence several lymphoma-related genes in human and canine tumour samples.
-  photo: team/harry.jpg
+  photo: team/jhillman.jpg
 
 - name: Tony Ngo
   is_pi: False
@@ -285,13 +285,13 @@
   is_current: False
   position: MSc Student
   bio: >
-    Circulating tumour DNA (ctDNA) is rapidly becoming adopted as a 
-    sensitive biomarker for non-invasive monitoring of treatment response 
+    Circulating tumour DNA (ctDNA) is rapidly becoming adopted as a
+    sensitive biomarker for non-invasive monitoring of treatment response
     in many cancer types.
-    Stephen's work helped to establish and validate numerous assays for 
+    Stephen's work helped to establish and validate numerous assays for
     quantifying ctDNA in plasma from lymphoma patients based on common hot spot mutations in genes such as EZH2 and STAT6.
-    These assays demonstrated prognostic utility of ctDNA in multiple 
-    <a href="https://www.ncbi.nlm.nih.gov/pubmed/27166360">clinical trials</a> and helped describe <a href="http://clincancerres.aacrjournals.org/content/22/9/2290">patterns of clonal evolution in DLBCL</a>. 
+    These assays demonstrated prognostic utility of ctDNA in multiple
+    <a href="https://www.ncbi.nlm.nih.gov/pubmed/27166360">clinical trials</a> and helped describe <a href="http://clincancerres.aacrjournals.org/content/22/9/2290">patterns of clonal evolution in DLBCL</a>.
   photo: team/syu.jpg
 
 - name: Kevin Bushell
@@ -300,13 +300,13 @@
   position: MSc Student
   scholar: https://scholar.google.ca/citations?user=OxP8_oIAAAAJ&hl=en
   bio: >
-    Lymphoma is the most common cancer affecting pet dogs. Kevin used 
-    genomic techniques to identify mutations involved in lymphomagenesis 
+    Lymphoma is the most common cancer affecting pet dogs. Kevin used
+    genomic techniques to identify mutations involved in lymphomagenesis
     in canine B-cell lymphoma.
-    His work identified <a href="https://www.ncbi.nlm.nih.gov/pubmed/25468570">TRAF3</a> as one of the most commonly mutated genes 
-    in this cancer. Kevin also studied the potential utility of ctDNA in a 
-    variety of human cancers using several techniques including the OnTarget system from Boreal Genomics. 
-    He joined the laboratory full-time after graduating and has since transitioned to law school. 
+    His work identified <a href="https://www.ncbi.nlm.nih.gov/pubmed/25468570">TRAF3</a> as one of the most commonly mutated genes
+    in this cancer. Kevin also studied the potential utility of ctDNA in a
+    variety of human cancers using several techniques including the OnTarget system from Boreal Genomics.
+    He joined the laboratory full-time after graduating and has since transitioned to law school.
   photo: team/kbushell.jpg
 
 - name: Arezoo Mohajeri
@@ -315,9 +315,9 @@
   position: MSc Student
   researchgate: https://www.researchgate.net/profile/Arezoo_Mohajeri
   bio: >
-    Arezoo generated and analyzed exome sequence data from diffuse large B-cell lymphoma (DLBCL) and 
+    Arezoo generated and analyzed exome sequence data from diffuse large B-cell lymphoma (DLBCL) and
     mantle cell lymphoma (MCL) tumours.
-    Her thesis project involved a combination of wet-lab work and bioinformatics including a meta-analysis of published and in-house 
+    Her thesis project involved a combination of wet-lab work and bioinformatics including a meta-analysis of published and in-house
     exome data to identify new recurrently-mutated genes in MCL. Her discoveries a novel silent mutation hot spot in MAP3K14. She also demonstrated patterns of clonal evolution in relapsed DLBCL.
   photo: team/amohajeri.jpg
 
@@ -326,7 +326,7 @@
   is_current: False
   position: Undergraduate researcher
   bio: >
-  
+
   photo: team/harry.jpg
 
 - name: Jordan Davidson
@@ -334,7 +334,7 @@
   is_current: False
   position: Undergraduate researcher
   bio: >
-  
+
   photo: team/jdavidson.jpg
 
 - name: Elie Ritch
@@ -342,7 +342,7 @@
   is_current: False
   position: Undergraduate bioinformatician
   bio: >
-  
+
   photo: team/harry.jpg
 
 - name: Sepideh Alamouti
@@ -350,33 +350,33 @@
   is_current: False
   position: Postdoctoral fellow
   bio: >
-    
+
   photo: team/harry.jpg
-  
+
 - name: Dan Fornika
   is_pi: False
   is_current: False
   twitter: https://twitter.com/morinryan
   position: Research Assistant/Bioinformatician
   bio: >
-    
+
   photo: team/dfornika.jpg
-  
+
 - name: Selin Jessa
   is_pi: False
   is_current: False
   position: Undergraduate bioinformatician
   bio: >
-  
+
   photo: team/harry.jpg
-  
+
 - name: Marco Albuquerque
   is_pi: False
   is_current: False
   github: https://github.com/marcoalbuquerque-sfu
   position: Undergraduate bioinformatician
   bio: >
-  
+
   photo: team/marco.jpg
 
 - name: Kristina Aluzaite
@@ -384,7 +384,7 @@
   is_current: False
   position: Visiting Graduate Student
   bio: >
-  
+
   photo: team/harry.jpg
 
 - name: Stuart Zong
@@ -392,5 +392,5 @@
   is_current: False
   position: Research Assistant
   bio: >
-    
+
   photo: team/harry.jpg
