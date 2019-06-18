@@ -18,6 +18,7 @@ Members of the Morin laboratory indicated in **boldface**
 [**Editorial**](http://www.bloodjournal.org/content/133/12/1269)
 
 [**In the News**](https://scienceinthecity.com/2019/01/23/genome-wide-discovery-of-somatic-coding-and-non-coding-mutations-in-pediatric-endemic-and-sporadic-burkitt-lymphoma/)
+
 [**Terry Fox Research Highlight**](https://www.tfri.ca/updates/news/news-item/team-identifies-new-classification-system-for-burkitt-s-lymphoma-and-opens-door-for-more-precise-treatments)
 [**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583)<br>
 Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
