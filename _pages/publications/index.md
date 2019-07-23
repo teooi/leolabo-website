@@ -11,6 +11,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2019
 [**Ultrasensitive Detection of Circulating Tumor DNA in Lymphoma via Targeted Hybridization Capture and Deep Sequencing of Barcoded Libraries**](https://link.springer.com/protocol/10.1007%2F978-1-4939-9151-8_20)
+
 **Miguel Alcaide**, **Christopher Rushton**, **Ryan D. Morin**. Methods Molecular Biology. 2019;1956:383-435.
 
 [**Genome-wide discovery of somatic coding and non-coding mutations in pediatric endemic and sporadic Burkitt lymphoma**](http://www.bloodjournal.org/content/133/12/1313)
