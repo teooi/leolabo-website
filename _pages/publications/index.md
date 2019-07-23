@@ -28,15 +28,15 @@ Members of the Morin laboratory indicated in **boldface**
 
 [**Terry Fox Research Highlight**](https://www.tfri.ca/updates/news/news-item/team-identifies-new-classification-system-for-burkitt-s-lymphoma-and-opens-door-for-more-precise-treatments)
 
+[**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**](https://jmd.amjpathol.org/article/S1525-1578(18)30114-4/fulltext)<br>
+**Alcaide M\***, **Cheung M\***, **Bushell K\***, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**.<br>
+Journal of Molecular Diagnostics. J Mol Diagn. 2019 Mar;21(2):214-227.
+
 ## 2018
 
 [**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583)<br>
 Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
 Journal of Clinical Oncology. December 3, 2018. 
-
-[**A Novel Multiplex droplet digital PCR Assay to Identify and Quantify KRAS Mutations in Clinical Specimens.**](https://jmd.amjpathol.org/article/S1525-1578(18)30114-4/fulltext)<br>
-**Alcaide M\***, **Cheung M\***, **Bushell K\***, **Arthur S**,  **Wong HL**, Karasinska J, Renouf D,  Schaeffer DF, McNamara S, Couetoux du Tertre M, Batist G, Kennecke HF, Karsan K and **Morin RD**.<br>
-Journal of Molecular Diagnostics. 2018 10.1016/j.jmoldx.2018.09.007
 
 [**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
 <br>
