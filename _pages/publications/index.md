@@ -11,6 +11,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2019
 [**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://www.biorxiv.org/content/10.1101/686956v1)
+
 **Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**.  bioRxiv preprint. 
 
 [**Ultrasensitive Detection of Circulating Tumor DNA in Lymphoma via Targeted Hybridization Capture and Deep Sequencing of Barcoded Libraries**](https://link.springer.com/protocol/10.1007%2F978-1-4939-9151-8_20)
