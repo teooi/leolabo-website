@@ -25,6 +25,18 @@
   assignees: Chris Rushton, Laura Hilton, Miguel Alcaide, Aixiang Jiang
   photo: projects/FCGR2B_cropped.png
 
+- name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
+  description: >
+    Through genomic characterization of primary refractory DLBCL (rDLBCL), we identified 
+    somatic amplification of the Fc Gamma receptor 2B gene (FCGR2B) as a common
+    feature of rDLBCL. We also found the expression of FCGR2B (by RNA-seq) was prognostic
+    in multiple DLBCL cohorts. We continue to explore the genetics of this complex locus using
+    long-read sequencing, ddPCR and other appropriate methods. 
+  funding: ASH Foundation
+  collaborators: David Scott
+  assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
+  photo: projects/FCGR2B_cropped.png
+
 - name: Resolving clonal structure and evolution patterns in DLBCL
   description: >
     Diffuse Large B-Cell Lymphoma is a genetically heterogeneous form of cancer, 
