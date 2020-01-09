@@ -10,6 +10,9 @@ rank: 4
 Members of the Morin laboratory indicated in **boldface**
 
 ## 2019
+[**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH**]
+**Hilton LK, Tang J,** Ben-Neriah S, **Alcaide M, Jiang A, Grande BM, Rushton CK,** Boyle M, Meissner B, Scott DW, **Morin RD**. Blood. 2019 Oct 31;134(18):1528-1532. 
+
 [**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://www.biorxiv.org/content/10.1101/686956v1)
 
 **Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**.  bioRxiv preprint. 
