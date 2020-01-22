@@ -238,6 +238,13 @@
     about the field of science, I wish it was equally accessible to people of all genders and ethnicities, and from all 
     socioeconomic backgrounds. 
   photo: team/ltooman.jpg
+  
+- name: Quratulain Qureshi
+  is_pi: False
+  is_current: True
+  position: Undergraduate researcher
+  bio: >
+  photo: team/annie.jpg
 
 - name: Krishanna Campbell
   is_pi: False
