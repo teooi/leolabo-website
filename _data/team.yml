@@ -244,6 +244,11 @@
   is_current: True
   position: Undergraduate researcher
   bio: >
+      My research project aims to investigate the mechanisms of regulation of a gene encoding an RNA binding protein, HNRNPH1.
+      HNRNPH1 was found to be recurrently mutated in Mantle Cell Lymphoma (MCL) patients, identified through whole genome 
+      sequencing in the Morin lab. Specifically, I am implementing in-vitro assays to detect secondary structures in the 
+      HNRNPH1 RNA, hypothesized to play important roles in its regulation. I am also testing whether the introduction of 
+      patient derived mutations disrupt these structures and contribute to MCL pathobiology.
   photo: team/annie.jpg
 
 - name: Krishanna Campbell
