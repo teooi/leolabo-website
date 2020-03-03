@@ -9,6 +9,7 @@ rank: 7
     <script>UPLOADCARE_PUBLIC_KEY = "9ece2f24515da2c6390d";</script>
 <script src="https://ucarecdn.com/libs/widget/2.10.2/uploadcare.full.min.js" charset="utf-8"></script>
 </head>
+## Open Positions
 **Postdoctoral Fellow -- Integrative Genomic Analysis of Lymphoid Cancers**
 
 The Morin and Scott laboratories are seeking a Postdoctoral Fellow to take a leadership role in an ongoing effort to resolve the molecular aetiology of aggressive lymphoid cancers using genomic techniques. This individual will work closely with a team of bioinformaticians, biostatisticians and clinician-scientists in a highly productive and stimulating research environment at a world-class research facility in Vancouver, Canada.
@@ -47,7 +48,7 @@ Suitable candidates should possess a PhD degree in bioinformatics, computer scie
 
 Diversity is an integral part of Canadian history, culture, and identity. In the Morin laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer.
 
-*Applicants are requested to send a cover letter and CV to rdmorin@sfu.ca with LYMPHOMA-PDF in the subject line*
+*Applicants are requested to send a cover letter and CV to rdmorin@sfu.ca with LYMPHOMA-PDF in the subject line or using the form below*
 
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
