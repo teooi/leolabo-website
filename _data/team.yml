@@ -88,17 +88,16 @@
   position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
   orcid: https://orcid.org/0000-0002-6413-6586
   bio: >
-    My current research goal is to identify genetic features that
-    underlie elevated expression and somatic amplification of the FCGR2B
-    gene as a driver of treatment resistance.
-    Because Fc-gamma receptor IIB promotes the internalization of rituximab,
-    a monoclonal antibody used in the treatment of most non-Hodgkin
-    lymphomas, patients with high FCGR2B expression experience inferior
-    outcomes relative to patients with low FCGR2B expression.
-    My project involves both wet and dry lab components, using analysis
-    of RNAseq and whole genome and exome sequencing data to identify
-    candidate drivers of FCGR2B expression, and functionally
-    characterizing these candidates in cell lines.
+    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
+    variants, especially those that involve placing the oncogenes MYC, BCL2,
+    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
+    My project utilizes whole genome and targeted sequencing to characterize
+    these driver SVs across B-NHLs with a goal of understanding the mechanisms
+    by which they arise. I'm also interested in using gene expression and 
+    mutation data to facilitate the classification of rare and/or poorly 
+    characterized lymphomas, to identify progonostic and predictive biomarkers 
+    and targetable vulnerabilities that can be exploited in the development 
+    of novel therapies.
   photo: team/lhilton.jpg
 
 - name: Dr. Krysta Coyle
