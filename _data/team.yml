@@ -226,6 +226,13 @@
     splicing of RNA transcripts.
   photo: team/nthomas.jpg
 
+- name: Kristena Daley
+  is_pi: False
+  is_current: True
+  position: MSc Student
+  bio: >
+  photo: team/harry.jpg
+
 - name: Leah Tooman
   is_pi: False
   is_current: False
