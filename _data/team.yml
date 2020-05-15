@@ -28,7 +28,7 @@
 
 - name: Dr. Miguel Alcaide
   is_pi: False
-  is_current: True
+  is_current: False
   position: Research Associate
   researchgate: https://www.researchgate.net/profile/Miguel_Alcaide
   scholar: https://scholar.google.ca/citations?hl=en&user=5Jig5G4AAAAJ
@@ -85,7 +85,7 @@
 - name: Dr. Laura Hilton
   is_pi: False
   is_current: True
-  position: Staff Scientist
+  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
   orcid: https://orcid.org/0000-0002-6413-6586
   bio: >
     My current research goal is to identify genetic features that
@@ -228,7 +228,7 @@
 
 - name: Leah Tooman
   is_pi: False
-  is_current: True
+  is_current: False
   position: Research Assistant
   bio: >
     My role in the Morin Lab is to support the research that is being conducted by our students and postdoctoral fellows 
@@ -265,12 +265,9 @@
 
 - name: Matt Cheung
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate researcher
   bio: >
-    I assist with a variety of ongoing projects in the lab.
-    Most recently I have been implementing <a href="https://www.ncbi.nlm.nih.gov/pubmed/30472330">multiplex ddPCR assays</a> for identifying common hot spot mutations in KRAS.
-    I enjoy long walks on the beach, deep conversation, holding hands, romance novels, pruning the garden, skinny dipping and piggy-back rides.
   photo: team/mcheung.jpg
 
 - name: Matthew Nguyen
