@@ -10,6 +10,11 @@ rank: 4
 Members of the Morin laboratory indicated in **boldface**
 
 ## 2020
+
+[**Genetic and evolutionary patterns of treatment resistance in relapsed B-cell lymphoma**](https://pubmed.ncbi.nlm.nih.gov/32589730/)
+
+**Christopher K Rushton**, **Sarah E Arthur**, **Miguel Alcaide**, **Matthew Cheung**, **Aixiang Jiang**, **Krysta M Coyle**, Kirstie L S Cleary, **Nicole Thomas**, **Laura K Hilton**, Neil Michaud, Scott Daigle, **Jordan Davidson**, **Kevin Bushell**, **Stephen Yu**, Ryan N Rys, Michael Jain, Lois Shepherd, Marco A Marra, John Kuruvilla, Michael Crump, Koren Mann, Sarit Assouline, Joseph M Connors, Christian Steidl, Mark S Cragg, David W Scott, Nathalie A Johnson, **Ryan D Morin**
+
 [**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://www.biorxiv.org/content/10.1101/686956v1)
 
 **Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. In press.
