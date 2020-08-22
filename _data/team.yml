@@ -225,6 +225,13 @@
     splicing of RNA transcripts.
   photo: team/nthomas.jpg
 
+- name: Kostiantyn Dreval
+  is_pi: False
+  is_current: True
+  position: Postdoctoral fellow
+  bio: >
+  photo: team/peanut.png
+
 - name: Kristena Daley
   is_pi: False
   is_current: True
