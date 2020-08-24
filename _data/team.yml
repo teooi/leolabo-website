@@ -230,10 +230,14 @@
   is_current: True
   position: Postdoctoral fellow
   bio: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
-    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico. 
+    During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While 
+    performing basic research in cancer biology and epigenetics, I became passionate about scientific discoveries 
+    in the area of bioinformatics and computational biology. In the Morin lab, I am applying a variety of bioinformatics 
+    tools to uncover genomic features of Burkitt lymphoma, a form of aggressive B-cell non-Hodgkin lymphoma. Specifically, 
+    my research is focused on comparing the genomic and molecular characteristics of adult and pediatric BL, Epstein-Barr 
+    virus (EBV) positive and negative BL, as well as endemic and sporadic cases, which will allow better diagnosis approaches 
+    and will ultimately facilitate development of more effective treatment strategies.
   photo: team/peanut.png
 
 - name: Kristena Daley
