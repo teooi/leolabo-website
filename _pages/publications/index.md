@@ -28,6 +28,10 @@ Blood Cancer Discovery (2020)
 
 **Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. Blood. 2020 Jul 30;136(5):572-584. doi: 10.1182/blood.2019002385.
 
+[**DLBCL subclassification: divide and conquer?**](https://ashpublications.org/blood/article/135/20/1722/454958/DLBCL-subclassification-divide-and-conquer)
+
+**Ryan D. Morin** and David W. Scott. Blood (2020). May 14;135(20):1722-1724. doi: 10.1182/blood.2020005335.
+
 ## 2019
 [**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH**](https://www.ncbi.nlm.nih.gov/pubmed/31527075)
 
