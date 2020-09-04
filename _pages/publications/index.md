@@ -11,6 +11,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2020
 
+[**PRPS-ST: A protocol-agnostic self-training method for gene expression-based classification of blood cancers**](https://bloodcancerdiscov.aacrjournals.org/)
+**Aixiang Jiang** , **Laura K. Hilton** , **Jeffrey Tang** , **Christopher K. Rushton** , **Bruno M. Grande**, David W. Scott, **Ryan D. Morin.**
+Blood Cancer Discovery (2020)
+
 [**Genetic and evolutionary patterns of treatment resistance in relapsed B-cell lymphoma**](https://pubmed.ncbi.nlm.nih.gov/32589730/)
 
 **Christopher K Rushton**, **Sarah E Arthur**, **Miguel Alcaide**, **Matthew Cheung**, **Aixiang Jiang**, **Krysta M Coyle**, Kirstie L S Cleary, **Nicole Thomas**, **Laura K Hilton**, Neil Michaud, Scott Daigle, **Jordan Davidson**, **Kevin Bushell**, **Stephen Yu**, Ryan N Rys, Michael Jain, Lois Shepherd, Marco A Marra, John Kuruvilla, Michael Crump, Koren Mann, Sarit Assouline, Joseph M Connors, Christian Steidl, Mark S Cragg, David W Scott, Nathalie A Johnson, **Ryan D Morin**. Blood Adv (2020) 4 (13): 2886–2898.
@@ -18,6 +22,7 @@ Members of the Morin laboratory indicated in **boldface**
 [**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://ashpublications.org/blood/article/doi/10.1182/blood.2019002385/452635/Coding-and-non-coding-drivers-of-mantle-cell)
 
 **Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. Blood. In press.
+
 ## 2019
 [**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH**](https://www.ncbi.nlm.nih.gov/pubmed/31527075)
 
