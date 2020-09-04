@@ -12,6 +12,7 @@ Members of the Morin laboratory indicated in **boldface**
 ## 2020
 
 [**PRPS-ST: A protocol-agnostic self-training method for gene expression-based classification of blood cancers**](https://bloodcancerdiscov.aacrjournals.org/)
+
 **Aixiang Jiang** , **Laura K. Hilton** , **Jeffrey Tang** , **Christopher K. Rushton** , **Bruno M. Grande**, David W. Scott, **Ryan D. Morin.**
 Blood Cancer Discovery (2020)
 
