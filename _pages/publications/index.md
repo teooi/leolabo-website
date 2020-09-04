@@ -15,6 +15,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 **Aixiang Jiang** , **Laura K. Hilton** , **Jeffrey Tang** , **Christopher K. Rushton** , **Bruno M. Grande**, David W. Scott, **Ryan D. Morin.**
 Blood Cancer Discovery (2020)
+ 
+[**Evaluating the quantity, quality and size distribution of cell-free DNA by multiplex droplet digital PCR**](https://www.nature.com/articles/s41598-020-69432-x)
+
+**Miguel Alcaide**, **Matthew Cheung**, **Jack Hillman**, S. Rod Rassekh, Rebecca J. Deyell, Gerald Batist, Aly Karsan, Alexander W. Wyatt, Nathalie Johnson, David W. Scott & **Ryan D. Morin**. Scientific Reports 10, Article number: 12564 (2020).
 
 [**Genetic and evolutionary patterns of treatment resistance in relapsed B-cell lymphoma**](https://pubmed.ncbi.nlm.nih.gov/32589730/)
 
@@ -22,7 +26,7 @@ Blood Cancer Discovery (2020)
 
 [**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://ashpublications.org/blood/article/doi/10.1182/blood.2019002385/452635/Coding-and-non-coding-drivers-of-mantle-cell)
 
-**Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. Blood. In press.
+**Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**. Blood. 2020 Jul 30;136(5):572-584. doi: 10.1182/blood.2019002385.
 
 ## 2019
 [**The double-hit signature identifies double-hit diffuse large B-cell lymphoma with genetic events cryptic to FISH**](https://www.ncbi.nlm.nih.gov/pubmed/31527075)
