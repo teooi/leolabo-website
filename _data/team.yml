@@ -225,7 +225,7 @@
     splicing of RNA transcripts.
   photo: team/nthomas.jpg
 
-- name: Kostiantyn Dreval
+- name: Dr. Kostiantyn Dreval
   is_pi: False
   is_current: True
   position: Postdoctoral fellow
@@ -269,7 +269,7 @@
 - name: Quratulain Qureshi
   is_pi: False
   is_current: True
-  position: Undergraduate researcher
+  position: MSc student (Co-supervised by Dr. Tim Audas)
   bio: >
       My research project aims to investigate the mechanisms of regulation of a gene encoding an RNA binding protein, HNRNPH1.
       HNRNPH1 was found to be recurrently mutated in Mantle Cell Lymphoma (MCL) patients, identified through whole genome 
