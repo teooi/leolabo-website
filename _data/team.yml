@@ -86,6 +86,7 @@
   is_pi: False
   is_current: True
   position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
+  github: https://github.com/lkhilton
   orcid: https://orcid.org/0000-0002-6413-6586
   bio: >
     B-cell non-Hodgkin lymphomas have a high frequency of driver structural
@@ -228,6 +229,7 @@
 - name: Dr. Kostiantyn Dreval
   is_pi: False
   is_current: True
+  github: https://github.com/kdreval
   position: Postdoctoral fellow
   bio: >
     I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico. 
