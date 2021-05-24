@@ -9,6 +9,11 @@ rank: 3
 <div style="margin-bottom: 50px;">
     <img class="float-right" width="50%" src="{{ 'projects/wordcloud.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
+
+**A Modular Suite of Snakemake-based workflows for analysis of cancer genome data** 
+
+[LCR-modules](https://lcr-modules.readthedocs.io/en/latest/)
+
 **Binary classification of cancer samples from gene expression data**
 
 [PRPS](https://github.com/ajiangsfu/PRPS)<sup>1</sup>
