@@ -11,6 +11,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2021 
 
+[Treating lymphoma is now a bit EZ-er](https://ashpublications.org/bloodadvances/article/5/8/2256/475823/Treating-lymphoma-is-now-a-bit-EZ-er)
+
+**Ryan D. Morin**, **Sarah E. Arthur** and Sarit Assouline. Blood Advances (2021)
+
 [Non-coding NFKBIZ 3′ UTR mutations promote cell growth and resistance to targeted therapies in diffuse large B-cell lymphoma](https://www.biorxiv.org/content/10.1101/2021.05.22.445261v1)
 
 **Sarah E Arthur**, Jie Gao, Shannon Healy, **Christopher K Rushton**, **Nicole Thomas**, **Laura K Hilton**, **Kostiantyn Dreval**, **Jeffrey Tang**, **Miguel Alcaide**, Razvan Cojocaru, Anja Mottok, Adele Telenius, Peter Unrau, Wyndham H Wilson, Louis M Staudt, David W Scott, Daniel J Hodson, Christian Steidl,  **Ryan D Morin**
