@@ -219,6 +219,7 @@
   is_pi: False
   is_current: True
   position: PhD Student
+  github: https://github.com/nthomas11
   bio: >
     I completed my Honours Project in the Morin lab, during which I investigated the role of putative enhancers in
     Mantle Cell Lymphoma. My current role in the lab involves the mining of RNA-Seq data to identify unique gene
