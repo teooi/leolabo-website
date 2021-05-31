@@ -287,6 +287,17 @@
   is_current: True
   position: Postdoctoral Fellow
   bio: >
+    I earned my PhD in Evolutionary Biology from Germany. Before joining the Morin lab in January 2021, I was a postdoc
+    at university of California-Davis and UBC-University of Calgary working on understanding the genomic bases of adaptation
+    and convergent evolution. Cancers evolve by a reiterative process of clonal expansion, genetic diversification and
+    clonal selection within the adaptive landscapes of tissue ecosystems. The dynamics are complex, with highly variable
+    patterns of genetic diversity and resulting clonal architecture which are closely related to cancer progression, resistance
+    to therapy, and recurrences,therefore, our better understanding of the evolutionary landscape in cancer can help to develop 
+    advanced treatments matching appropriately selected molecular targets. My main interest is to apply evolutionary genomics
+    tools to understand intra-tumour heterogeneity across multiple non-Hodgkin Lymphomas and to reconstruct their evolutionary 
+    history as part of the Pan-cancer analysis of B-cell lymphomas using whole-genome sequencing data. These analyses will 
+    eventually allow us to reveal the timing of specific genomic aberrations and changing mutational process over the course 
+    of cancer evolution.
   photo: team/photo_shaghayegh.png
 
 - name: Manuela Cruz
