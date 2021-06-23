@@ -1,7 +1,10 @@
 ---
 layout: page
-title: PI Bio
+title: Lymphomaniacs Terry Fox Campaign - Branding the Brand
 permalink: /pi/
 toggle: off
 rank: 3
 ---
+
+# Lymphomaniacs Terry Fox Campaign
+## Branding the Brand
