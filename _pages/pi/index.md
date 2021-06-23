@@ -15,3 +15,8 @@ rank: 3
 
 _Campain dates: July 1 - August 31, 2021_
 
+### Why we're doing this
+* The Terry Fox Foundation has provided consistent support to the research we do in the Morin lab at SFU and BC Cancer and each year we give back by raising funds and awareness through the run
+* The Morin lab has long discussed having a logo but this has never been incentivized
+* Dr. Morin may be having a midlife crisis but he's an adult and his team is more than happy to suggest designs knowing that he will get one of them as a tatoo
+
