@@ -200,7 +200,7 @@
 
 - name: Jeffrey Tang
   is_pi: False
-  is_current: True
+  is_current: False
   github: https://github.com/jeffstang
   position: MSc Student
   bio: >
@@ -214,6 +214,14 @@
     capture novel groups to better describe clinical
     heterogeneity in DLBCL.
   photo: team/jtang.jpg
+
+- name: Haya Shaalan
+  is_pi: False
+  is_current: True
+  position: MSc Student
+  bio: >
+  photo: team/haya.jpg
+
 
 - name: Nicole Thomas
   is_pi: False
