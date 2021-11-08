@@ -148,7 +148,7 @@
     (SciProg.ca) and the annual Hackseq genomics hackathon.
   photo: team/bgrande.jpg
 
-- name: Sarah Arthur
+- name: Dr. Sarah Arthur
   is_pi: False
   is_current: True
   position: Postdoctoral Fellow (former PhD student)
@@ -219,6 +219,7 @@
   is_pi: False
   is_current: True
   position: MSc Student
+  github: https://github.com/hayashaalan
   bio: >
   photo: team/haya.jpg
 
