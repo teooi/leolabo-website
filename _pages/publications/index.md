@@ -13,7 +13,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 [Shared and distinct genetic features in human and canine B-cell lymphomas](https://www.biorxiv.org/content/10.1101/2021.10.14.464277v1)
 
-**Krysta M Coyle**, **Tiana Hillman**, **Matthew Cheung**,  **Bruno M. Grande**, **Kevin R. Bushell**, **Sarah E. Arthur**, **Miguel Alcaide**, **Nicole Thomas**, **Kostiantyn Dreval**, **Stephanie Wong**, **Krishanna Campbell**,  **Ryan D. Morin**
+**Krysta M Coyle**, **Tiana Hillman**, **Matthew Cheung**,  **Bruno M. Grande**, **Kevin R. Bushell**, **Sarah E. Arthur**, **Miguel Alcaide**, **Nicole Thomas**, **Kostiantyn Dreval**, **Stephanie Wong**, **Krishanna Campbell**,  **Ryan D. Morin**. BioRXiv (2021)
 
 
 [Prognostic significance of FCGR2B expression for the response of DLBCL patients to rituximab or obinutuzumab treatment](https://ashpublications.org/bloodadvances/article/5/15/2945/476457/Prognostic-significance-of-FCGR2B-expression-for)
