@@ -11,6 +11,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2021 
 
+[Prognostic significance of FCGR2B expression for the response of DLBCL patients to rituximab or obinutuzumab treatment](https://ashpublications.org/bloodadvances/article/5/15/2945/476457/Prognostic-significance-of-FCGR2B-expression-for)
+
+Malgorzata Nowicka, **Laura K. Hilton**,  Margaret Ashton-Key, Chantal E. Hargreaves, Chern Lee, Russell Foxall, Matthew J. Carter, Stephen A. Beers, Kathleen N. Potter, Christopher R. Bolen, Christian Klein, Andrea Knapp, Farheen Mir, Matthew Rose-Zerilli, Cathy Burton, Wolfram Klapper, David W. Scott, Laurie H. Sehn, Umberto Vitolo, Maurizio Martelli, Marek Trneny, Christopher K. Rushton, Graham W. Slack, Pedro Farinha, Jonathan C. Strefford, Mikkel Z. Oestergaard, **Ryan D. Morin**, Mark S. Cragg. Blood Advances (2021)
+
 [Molecular profiling in diffuse large B-cell lymphoma: why so many types of subtypes?](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17811)
 
 **Ryan D. Morin**, **Sarah E. Arthur** and Daniel Hodson. Br J Haem (2021)
