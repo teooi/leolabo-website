@@ -11,6 +11,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2021 
 
+[Molecular profiling in diffuse large B-cell lymphoma: why so many types of subtypes?](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17811)
+
+**Ryan D. Morin**, **Sarah E. Arthur** and Daniel Hodson. Br J Haem (2021)
+
 [Treating lymphoma is now a bit EZ-er](https://ashpublications.org/bloodadvances/article/5/8/2256/475823/Treating-lymphoma-is-now-a-bit-EZ-er)
 
 **Ryan D. Morin**, **Sarah E. Arthur** and Sarit Assouline. Blood Advances (2021)
