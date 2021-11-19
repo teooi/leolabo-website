@@ -221,12 +221,12 @@
   position: MSc Student
   github: https://github.com/hayashaalan
   bio: >
-  I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project. 
-  I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various 
-  analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION 
-  sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on 
-  structural variant discovery and informs on methylation state. We hope that the addition of promethION data will 
-  consolidate previous findings, as well as provide further insight to the genomic landscape of this disease.
+    I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project. 
+    I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various 
+    analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION 
+    sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on 
+    structural variant discovery and informs on methylation state. We hope that the addition of promethION data will 
+    consolidate previous findings, as well as provide further insight to the genomic landscape of this disease.
   photo: team/haya.jpg
 
 
