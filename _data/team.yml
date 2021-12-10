@@ -299,7 +299,7 @@
 
 - name: Shaghayegh Soudi
   is_pi: False
-  is_current: True
+  is_current: False
   position: Postdoctoral Fellow
   bio: >
     I earned my PhD in Evolutionary Biology from Germany. Before joining the Morin lab in January 2021, I was a postdoc
