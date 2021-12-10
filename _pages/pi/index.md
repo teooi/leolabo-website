@@ -28,7 +28,9 @@ The Morin laboratory is performing a meta-analysis of whole genome sequencing (W
 
 ## GAMBL presentations
 
-[constrained FL](https://ashpublications.org/blood/article/138/Supplement%201/807/480061/Constrained-FL-A-Genetically-Distinct-Subgroup-of)
+[Constrained FL: A Genetically Distinct Subgroup of Follicular Lymphoma with Low Rates of Somatic Hypermutation and a Reduced Propensity for Histologic Transformation](https://ashpublications.org/blood/article/138/Supplement%201/807/480061/Constrained-FL-A-Genetically-Distinct-Subgroup-of)
+
+[An Open-Source Toolkit That Powers the Genome-Wide Analysis of Mature B-Cell Lymphomas (GAMBL) Project](https://ash.confex.com/ash/2021/webprogram/Session21061.html)
 
 ## Summary of genomes by pathology
 
