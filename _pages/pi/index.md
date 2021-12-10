@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lymphomania Terry Fox Fundraising Campaign
+title: GAMBL
 permalink: /pi/
 toggle: on
 rank: 12
