@@ -29,5 +29,5 @@ The Morin laboratory is performing a meta-analysis of whole genome sequencing (W
 ## Summary of genomes by pathology
 
 <div style="margin-bottom: 50px;">
-    <img class="float-right" width="50%" src="{{ 'projects/pathology_gambl.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'projects/pathology_gambl.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
