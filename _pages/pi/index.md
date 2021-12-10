@@ -7,7 +7,7 @@ rank: 6
 ---
 
 # Genomic Analysis of Mature B-cell Lymphomas
-Welcome to the project landing page!
+Welcome to the project landing page for GAMBL
 
 ```
   /$$$$$$     /$$$$$$    /$$      /$$   /$$$$$$$    /$$. 
