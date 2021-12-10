@@ -4,7 +4,7 @@ layout: page
 title: GAMBL
 permalink: /gambl/
 toggle: on
-rank: 6
+rank: 9
 ---
 
 <div style="margin-bottom: 50px;">
