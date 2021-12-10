@@ -3,7 +3,7 @@
 layout: page
 title: GAMBL
 permalink: /gambl/
-toggle: on
+toggle: true
 rank: 9
 ---
 
