@@ -37,3 +37,9 @@ The Morin laboratory is performing a meta-analysis of whole genome sequencing (W
 <div style="margin-bottom: 50px;">
     <img src="{{ 'projects/mutations-1.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
+
+## Structural Variant (SV) Breakpoint Load
+
+<div style="margin-bottom: 50px;">
+    <img src="{{ 'projects/sv-1.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
+</div>
