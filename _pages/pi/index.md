@@ -33,6 +33,8 @@ The Morin laboratory is performing a meta-analysis of whole genome sequencing (W
 
 [An Open-Source Toolkit That Powers the Genome-Wide Analysis of Mature B-Cell Lymphomas (GAMBL) Project](https://ash.confex.com/ash/2021/webprogram/Session21061.html)
 
+[Complex Structural Variation Associated with Enhancer Hijacking and Loss of Tumor Suppressors in Mantle Cell Lymphoma](https://ashpublications.org/blood/article/138/Supplement%201/675/479519/Complex-Structural-Variation-Associated-with?searchresult=1)
+
 ## Summary of genomes by pathology
 
 <div style="margin-bottom: 50px;">
