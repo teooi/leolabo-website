@@ -376,7 +376,7 @@
 
 - name: Jack Hillman
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate researcher (NSERC USRA)
   bio: >
     I assist with a variety of ongoing projects in the lab. I am currently performing hybridization capture to sequence several lymphoma-related genes in human and canine tumour samples.
