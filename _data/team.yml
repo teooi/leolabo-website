@@ -247,7 +247,7 @@
   is_pi: False
   is_current: True
   github: https://github.com/kdreval
-  position: Postdoctoral fellow
+  position: Research Associate
   bio: >
     I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico. 
     During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While 
@@ -271,6 +271,19 @@
     and diffuse large B-cell lymphoma (DLBCL), as well as explore the benefits and drawbacks of common ctDNA 
     quantification strategies for both BL and DLBCL patients across Canada.
   photo: team/kristena.jpg
+
+- name: Carl-Adam Mattsson
+  is_pi: False
+  is_current: True
+  github: https://github.com/mattssca
+  position: Research Programmer
+  bio: >
+    With an MSc. in Bioinformatics (UBC) I work as a Research Programmer, focusing on improving existing bioinformatic and
+    computational infrastructure as well as the development and design of novel bioinformatic pipelines connected to Mature
+    B-cell Lymphoma research facilitated by the Morin lab. With a background in cytogenetics and medical genetics, I am very
+    interested in linking rare genetic variation to cancer predisposition and allowing for improved and effective treatment
+    decisions in cancer.
+  photo: team/adam.jpg
 
 - name: Leah Tooman
   is_pi: False
