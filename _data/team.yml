@@ -150,7 +150,7 @@
 
 - name: Dr. Sarah Arthur
   is_pi: False
-  is_current: True
+  is_current: False
   position: Postdoctoral Fellow (former PhD student)
   bio: >
     My project in the lab is focused on the characterization of novel
