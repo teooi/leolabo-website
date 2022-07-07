@@ -261,7 +261,7 @@
 
 - name: Kristena Daley
   is_pi: False
-  is_current: True
+  is_current: False
   position: MSc Student
   bio: >
     I received my BSc in biology in 2019, with my honours thesis focusing on the assembly and annotation of the Atlantic 
@@ -346,7 +346,7 @@
 - name: Manuela Cruz
   is_pi: False
   is_current: True
-  position: Undergraduate researcher
+  position: MSc student
   bio: >
     I perform various computational analyses to assist in the classification of driver genes within Non-Hodgkin’s Lymphoma. 
     By using computational methods designed to recognize recurrently mutated elements, it is possible to identify mutational 
