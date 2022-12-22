@@ -94,10 +94,10 @@
     BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
     My project utilizes whole genome and targeted sequencing to characterize
     these driver SVs across B-NHLs with a goal of understanding the mechanisms
-    by which they arise. I'm also interested in using gene expression and 
-    mutation data to facilitate the classification of rare and/or poorly 
-    characterized lymphomas, to identify progonostic and predictive biomarkers 
-    and targetable vulnerabilities that can be exploited in the development 
+    by which they arise. I'm also interested in using gene expression and
+    mutation data to facilitate the classification of rare and/or poorly
+    characterized lymphomas, to identify progonostic and predictive biomarkers
+    and targetable vulnerabilities that can be exploited in the development
     of novel therapies.
   photo: team/lhilton.jpg
 
@@ -221,11 +221,11 @@
   position: MSc Student
   github: https://github.com/hayashaalan
   bio: >
-    I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project. 
-    I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various 
-    analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION 
-    sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on 
-    structural variant discovery and informs on methylation state. We hope that the addition of promethION data will 
+    I work on implementing and improving pipelines for our Genomic Analysis of Mature B-cell Lymphoma project.
+    I’ve taken an interest in incorporating promethION long-read sequencing data into this project to perform various
+    analyses exploring copy number variation, simple somatic mutations, and structural variation patterns. PromethION
+    sequencing has certain advantages over short read sequencing in that it provides a more comprehensive view on
+    structural variant discovery and informs on methylation state. We hope that the addition of promethION data will
     consolidate previous findings, as well as provide further insight to the genomic landscape of this disease.
   photo: team/haya.jpg
 
@@ -249,13 +249,13 @@
   github: https://github.com/kdreval
   position: Research Associate
   bio: >
-    I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico. 
-    During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While 
-    performing basic research in cancer biology and epigenetics, I became passionate about scientific discoveries 
-    in the area of bioinformatics and computational biology. In the Morin lab, I am applying a variety of bioinformatics 
-    tools to uncover genomic features of Burkitt lymphoma, a form of aggressive B-cell non-Hodgkin lymphoma. Specifically, 
-    my research is focused on comparing the genomic and molecular characteristics of adult and pediatric BL, Epstein-Barr 
-    virus (EBV) positive and negative BL, as well as endemic and sporadic cases, which will allow better diagnosis approaches 
+    I obtained PhD in 2014, following which I received comprehensive training at FDA-NCTR and University of New Mexico.
+    During my career, I conducted original research in the area of cancer epigenomics and transcriptomics. While
+    performing basic research in cancer biology and epigenetics, I became passionate about scientific discoveries
+    in the area of bioinformatics and computational biology. In the Morin lab, I am applying a variety of bioinformatics
+    tools to uncover genomic features of Burkitt lymphoma, a form of aggressive B-cell non-Hodgkin lymphoma. Specifically,
+    my research is focused on comparing the genomic and molecular characteristics of adult and pediatric BL, Epstein-Barr
+    virus (EBV) positive and negative BL, as well as endemic and sporadic cases, which will allow better diagnosis approaches
     and will ultimately facilitate development of more effective treatment strategies.
   photo: team/kdreval.jpg
 
@@ -264,11 +264,11 @@
   is_current: False
   position: MSc Student
   bio: >
-    I received my BSc in biology in 2019, with my honours thesis focusing on the assembly and annotation of the Atlantic 
-    deep-sea scallop transcriptome in order to determine differential gene expression in populations across Atlantic Canada. 
-    In the Morin lab, I am currently researching circulating tumor DNA (ctDNA) in various Non-Hodgkin’s lymphoma subtypes 
-    to identify mutation- and progression-based trends. My project aims to infer genome-wide methylation of Burkitt lymphoma (BL) 
-    and diffuse large B-cell lymphoma (DLBCL), as well as explore the benefits and drawbacks of common ctDNA 
+    I received my BSc in biology in 2019, with my honours thesis focusing on the assembly and annotation of the Atlantic
+    deep-sea scallop transcriptome in order to determine differential gene expression in populations across Atlantic Canada.
+    In the Morin lab, I am currently researching circulating tumor DNA (ctDNA) in various Non-Hodgkin’s lymphoma subtypes
+    to identify mutation- and progression-based trends. My project aims to infer genome-wide methylation of Burkitt lymphoma (BL)
+    and diffuse large B-cell lymphoma (DLBCL), as well as explore the benefits and drawbacks of common ctDNA
     quantification strategies for both BL and DLBCL patients across Canada.
   photo: team/kristena.jpg
 
@@ -285,9 +285,26 @@
     decisions in cancer.
   photo: team/adam.jpg
 
-- name: Prince Kumar Lat
+- name: Jasper Wong
   is_pi: False
   is_current: True
+  position: Bioinformatician
+  orcid:  https://orcid.org/0000-0002-8140-6517
+  github: https://github.com/Jwong684
+  bio: >
+    Rare aggressive extra-nodal diffuse large B-cell lymphoma (DLBCL) remains unresponsive to standard treatments
+    and has a poor prognosis. My projects aim to genetically characterize these extra-nodal lymphomas to better understand
+    potential mechanisms driving their pathologies. One project involves investigating primary extranodal DLBCLs (specifically
+    primary DLBCL in the testes and CNS), and understanding biological distinctions that separate these extranodal DLBCLs
+    compared to their nodal counterparts, and to examine factors that promote their progression. The other project involves
+    examining plasmablastic lymphoma, a disease typically involving immunocompromised individuals. Because of the rarity of this
+    disease, very few studies have been able to examine the genomic landscape of this disease in depth. Coming from an epigenetics
+    background, I have a particular interest in understanding the dynamics between the genome and epigenome in cancer.
+  photo: team/jasper.JPG
+
+- name: Prince Kumar Lat
+  is_pi: False
+  is_current: False
   github: https://github.com/princeklat03
   position: Volunteer
   bio: >
@@ -305,23 +322,23 @@
   is_current: False
   position: Research Assistant
   bio: >
-    My role in the Morin Lab is to support the research that is being conducted by our students and postdoctoral fellows 
-    through sequencing and cell culture work. I am also responsible for monitoring and maintaining supplies and equipment, 
-    conducting research, and ensuring the lab is maintaining high ethical standards . I have been working in a similar position 
-    in different genetics based labs in Canada, New Zealand and the United States for over a decade. As passionate as I am 
-    about the field of science, I wish it was equally accessible to people of all genders and ethnicities, and from all 
-    socioeconomic backgrounds. 
+    My role in the Morin Lab is to support the research that is being conducted by our students and postdoctoral fellows
+    through sequencing and cell culture work. I am also responsible for monitoring and maintaining supplies and equipment,
+    conducting research, and ensuring the lab is maintaining high ethical standards . I have been working in a similar position
+    in different genetics based labs in Canada, New Zealand and the United States for over a decade. As passionate as I am
+    about the field of science, I wish it was equally accessible to people of all genders and ethnicities, and from all
+    socioeconomic backgrounds.
   photo: team/ltooman.jpg
-  
+
 - name: Quratulain Qureshi
   is_pi: False
   is_current: True
   position: MSc student (Co-supervised by Dr. Tim Audas)
   bio: >
       My research project aims to investigate the mechanisms of regulation of a gene encoding an RNA binding protein, HNRNPH1.
-      HNRNPH1 was found to be recurrently mutated in Mantle Cell Lymphoma (MCL) patients, identified through whole genome 
-      sequencing in the Morin lab. Specifically, I am implementing in-vitro assays to detect secondary structures in the 
-      HNRNPH1 RNA, hypothesized to play important roles in its regulation. I am also testing whether the introduction of 
+      HNRNPH1 was found to be recurrently mutated in Mantle Cell Lymphoma (MCL) patients, identified through whole genome
+      sequencing in the Morin lab. Specifically, I am implementing in-vitro assays to detect secondary structures in the
+      HNRNPH1 RNA, hypothesized to play important roles in its regulation. I am also testing whether the introduction of
       patient derived mutations disrupt these structures and contribute to MCL pathobiology.
   photo: team/annie.jpg
 
@@ -335,11 +352,11 @@
     and convergent evolution. Cancers evolve by a reiterative process of clonal expansion, genetic diversification and
     clonal selection within the adaptive landscapes of tissue ecosystems. The dynamics are complex, with highly variable
     patterns of genetic diversity and resulting clonal architecture which are closely related to cancer progression, resistance
-    to therapy, and recurrences,therefore, our better understanding of the evolutionary landscape in cancer can help to develop 
+    to therapy, and recurrences,therefore, our better understanding of the evolutionary landscape in cancer can help to develop
     advanced treatments matching appropriately selected molecular targets. My main interest is to apply evolutionary genomics
-    tools to understand intra-tumour heterogeneity across multiple non-Hodgkin Lymphomas and to reconstruct their evolutionary 
-    history as part of the Pan-cancer analysis of B-cell lymphomas using whole-genome sequencing data. These analyses will 
-    eventually allow us to reveal the timing of specific genomic aberrations and changing mutational process over the course 
+    tools to understand intra-tumour heterogeneity across multiple non-Hodgkin Lymphomas and to reconstruct their evolutionary
+    history as part of the Pan-cancer analysis of B-cell lymphomas using whole-genome sequencing data. These analyses will
+    eventually allow us to reveal the timing of specific genomic aberrations and changing mutational process over the course
     of cancer evolution.
   photo: team/photo_shaghayegh.png
 
@@ -348,12 +365,12 @@
   is_current: True
   position: MSc student
   bio: >
-    I perform various computational analyses to assist in the classification of driver genes within Non-Hodgkin’s Lymphoma. 
-    By using computational methods designed to recognize recurrently mutated elements, it is possible to identify mutational 
-    hotspots within genes of interest. Hotspots, or genomic regions that contain a higher density of mutations than would be 
-    expected, can be recognized by analyzing the linear genomic sequence or the 3D structure of the expressed protein. 
-    3D structure-based methods can supplement driver gene discovery by identifying regions in the tertiary structure that 
-    may mediate protein function and cell survival. I employ both types of methods for hotspot identification and driver 
+    I perform various computational analyses to assist in the classification of driver genes within Non-Hodgkin’s Lymphoma.
+    By using computational methods designed to recognize recurrently mutated elements, it is possible to identify mutational
+    hotspots within genes of interest. Hotspots, or genomic regions that contain a higher density of mutations than would be
+    expected, can be recognized by analyzing the linear genomic sequence or the 3D structure of the expressed protein.
+    3D structure-based methods can supplement driver gene discovery by identifying regions in the tertiary structure that
+    may mediate protein function and cell survival. I employ both types of methods for hotspot identification and driver
     gene discovery.
   photo: team/cruz.jpg
 
