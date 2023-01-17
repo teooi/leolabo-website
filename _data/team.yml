@@ -122,50 +122,6 @@
     enjoy communicating science to kids and adults alike.
   photo: team/kcoyle.jpg
 
-- name: Dr. Bruno Grande
-  is_pi: False
-  is_current: False
-  position: Postdoctoral fellow, former PhD student
-  scholar: https://scholar.google.ca/citations?user=xHoNHKEAAAAJ&hl=en
-  github: https://github.com/scientificbruno
-  orcid:  https://orcid.org/0000-0002-4621-1589
-  twitter: https://twitter.com/scientificbruno
-  bio: >
-    As the first bioinformatics graduate student in the lab, I've played
-    a role in several projects, each involving cancer genomics to some
-    degree.
-    Currently, my primary project is the genetic and molecular
-    characterization of paediatric Burkitt lymphoma (BL).
-    Defined by an epidemiological association with the Epstein–Barr virus
-    and malaria, the endemic variant of BL has been understudied compared
-    to sporadic BL, which is diagnosed in developed countries.
-    I lead the analysis of whole genome and transcriptome sequencing data
-    derived from over 100 cases, which has led to <a href="https://www.ncbi.nlm.nih.gov/pubmed/30617194">breakthroughs</a> in our
-    understanding of BL pathogenesis.
-    On the side, I'm an advocate for open and reproducible science, a
-    Software Carpentry instructor teaching programming to researchers,
-    and the co-founder of the Scientific Programming Study Group at SFU
-    (SciProg.ca) and the annual Hackseq genomics hackathon.
-  photo: team/bgrande.jpg
-
-- name: Dr. Sarah Arthur
-  is_pi: False
-  is_current: False
-  position: Postdoctoral Fellow (former PhD student)
-  bio: >
-    My project in the lab is focused on the characterization of novel
-    <a href="https://www.ncbi.nlm.nih.gov/pubmed/30275490">NFKBIZ 3’ UTR mutations</a> we previously discovered in DLBCL.
-    These mutations were discovered through a project searching for
-    genome-wide non-coding mutations and found to be significantly
-    enriched in the ABC sub-type of DLBCL.
-    My research involves functional analysis of these mutations in
-    DLBCL cell lines and in vivo mouse xenograft models to determine
-    how these mutations lead to activation of the NF-kB pathway and
-    contribute to DLBCL.
-    I am also working to determine the structure of the NFKBIZ 3’ UTR
-    and how mutations lead to changes that affect the regulation of
-    this gene.
-  photo: team/sarthur.jpg
 
 - name: Prasath Pararajalingam
   is_pi: False
@@ -180,40 +136,6 @@
     I am investigating deregulation of non-coding elements using a large dataset of WGS and RNA-seq MCL tumours.
   photo: team/ppararajalingam.jpg
 
-- name: Christopher Rushton
-  is_pi: False
-  is_current: True
-  position: PhD Student
-  github: https://github.com/ckrushton
-  bio: >
-    My research project focuses on identifying mutations in patients with relapsed Diffuse Large B-Cell Lymphoma; specifically,
-    the analysis of liquid biopsies obtained from these patients. As cells undergo apoptosis, apoptotic bodies containing DNA
-    are released into the bloodstream, and this DNA is called cell-free DNA. In patients with cancer, a portion of this
-    cell-free DNA originates from malignant cells, termed circulating-tumour DNA. Thus, we can obtain tumour genetic material
-    simply by obtaining a blood sample (called a liquid biopsy), which is less invasive and significantly cheaper than traditional
-    biopsies. Due to the unique nature of liquid biopsies, I am currently developing several pieces of software for analyzing
-    and benchmarking existing mutation-calling tools for use with these types of samples. I am applying these tools to samples
-    collected from several clinical trials where liquid biopsies are collected after patients are treated. By comparing the
-    mutation landscape of these patients prior to and following treatment, we identify mutations enriched following treatment,
-    which may contribute to tumour treatment resistance.
-  photo: team/crushton.jpg
-
-- name: Jeffrey Tang
-  is_pi: False
-  is_current: False
-  github: https://github.com/jeffstang
-  position: MSc Student
-  bio: >
-    Recent studies have identified 4 or 5 genetic subgroups in DLBCL, which
-    present a novel method of classification for alternative treatment
-    strategies.
-    My project aims to expand on classifying these subgroups
-    in DLBCL using a machine learning approaches utilizing molecular indicators such as mutation status from a set
-    of genes and hot spots, copy number status and cell-of-origin.
-    I hope to consolidate subtypes from these studies as well as to
-    capture novel groups to better describe clinical
-    heterogeneity in DLBCL.
-  photo: team/jtang.jpg
 
 - name: Haya Shaalan
   is_pi: False
@@ -302,6 +224,20 @@
     background, I have a particular interest in understanding the dynamics between the genome and epigenome in cancer.
   photo: team/jasper.JPG
 
+- name: Manuela Cruz
+  is_pi: False
+  is_current: True
+  position: MSc student
+  bio: >
+    I perform various computational analyses to assist in the classification of driver genes within Non-Hodgkin’s Lymphoma.
+    By using computational methods designed to recognize recurrently mutated elements, it is possible to identify mutational
+    hotspots within genes of interest. Hotspots, or genomic regions that contain a higher density of mutations than would be
+    expected, can be recognized by analyzing the linear genomic sequence or the 3D structure of the expressed protein.
+    3D structure-based methods can supplement driver gene discovery by identifying regions in the tertiary structure that
+    may mediate protein function and cell survival. I employ both types of methods for hotspot identification and driver
+    gene discovery.
+  photo: team/cruz.jpg
+
 - name: Prince Kumar Lat
   is_pi: False
   is_current: False
@@ -316,6 +252,41 @@
     to solve biological problems. In the Morin lab, I aim to deploy robust classification and clustering models to enhance the
     current understanding on poorly classified B-cell lymphomas.
   photo: team/prince.jpg
+
+- name: Dr. Christopher Rushton
+  is_pi: False
+  is_current: False
+  position: PhD Student
+  github: https://github.com/ckrushton
+  bio: >
+    My research project focuses on identifying mutations in patients with relapsed Diffuse Large B-Cell Lymphoma; specifically,
+    the analysis of liquid biopsies obtained from these patients. As cells undergo apoptosis, apoptotic bodies containing DNA
+    are released into the bloodstream, and this DNA is called cell-free DNA. In patients with cancer, a portion of this
+    cell-free DNA originates from malignant cells, termed circulating-tumour DNA. Thus, we can obtain tumour genetic material
+    simply by obtaining a blood sample (called a liquid biopsy), which is less invasive and significantly cheaper than traditional
+    biopsies. Due to the unique nature of liquid biopsies, I am currently developing several pieces of software for analyzing
+    and benchmarking existing mutation-calling tools for use with these types of samples. I am applying these tools to samples
+    collected from several clinical trials where liquid biopsies are collected after patients are treated. By comparing the
+    mutation landscape of these patients prior to and following treatment, we identify mutations enriched following treatment,
+    which may contribute to tumour treatment resistance.
+  photo: team/crushton.jpg
+
+- name: Jeffrey Tang
+  is_pi: False
+  is_current: False
+  github: https://github.com/jeffstang
+  position: MSc Student
+  bio: >
+    Recent studies have identified 4 or 5 genetic subgroups in DLBCL, which
+    present a novel method of classification for alternative treatment
+    strategies.
+    My project aims to expand on classifying these subgroups
+    in DLBCL using a machine learning approaches utilizing molecular indicators such as mutation status from a set
+    of genes and hot spots, copy number status and cell-of-origin.
+    I hope to consolidate subtypes from these studies as well as to
+    capture novel groups to better describe clinical
+    heterogeneity in DLBCL.
+  photo: team/jtang.jpg
 
 - name: Leah Tooman
   is_pi: False
@@ -342,6 +313,52 @@
       patient derived mutations disrupt these structures and contribute to MCL pathobiology.
   photo: team/annie.jpg
 
+- name: Dr. Bruno Grande
+  is_pi: False
+  is_current: False
+  position: Postdoctoral fellow, former PhD student
+  scholar: https://scholar.google.ca/citations?user=xHoNHKEAAAAJ&hl=en
+  github: https://github.com/scientificbruno
+  orcid:  https://orcid.org/0000-0002-4621-1589
+  twitter: https://twitter.com/scientificbruno
+  bio: >
+    As the first bioinformatics graduate student in the lab, I've played
+    a role in several projects, each involving cancer genomics to some
+    degree.
+    Currently, my primary project is the genetic and molecular
+    characterization of paediatric Burkitt lymphoma (BL).
+    Defined by an epidemiological association with the Epstein–Barr virus
+    and malaria, the endemic variant of BL has been understudied compared
+    to sporadic BL, which is diagnosed in developed countries.
+    I lead the analysis of whole genome and transcriptome sequencing data
+    derived from over 100 cases, which has led to <a href="https://www.ncbi.nlm.nih.gov/pubmed/30617194">breakthroughs</a> in our
+    understanding of BL pathogenesis.
+    On the side, I'm an advocate for open and reproducible science, a
+    Software Carpentry instructor teaching programming to researchers,
+    and the co-founder of the Scientific Programming Study Group at SFU
+    (SciProg.ca) and the annual Hackseq genomics hackathon.
+  photo: team/bgrande.jpg
+
+- name: Dr. Sarah Arthur
+  is_pi: False
+  is_current: False
+  position: Postdoctoral Fellow (former PhD student)
+  bio: >
+    My project in the lab is focused on the characterization of novel
+    <a href="https://www.ncbi.nlm.nih.gov/pubmed/30275490">NFKBIZ 3’ UTR mutations</a> we previously discovered in DLBCL.
+    These mutations were discovered through a project searching for
+    genome-wide non-coding mutations and found to be significantly
+    enriched in the ABC sub-type of DLBCL.
+    My research involves functional analysis of these mutations in
+    DLBCL cell lines and in vivo mouse xenograft models to determine
+    how these mutations lead to activation of the NF-kB pathway and
+    contribute to DLBCL.
+    I am also working to determine the structure of the NFKBIZ 3’ UTR
+    and how mutations lead to changes that affect the regulation of
+    this gene.
+  photo: team/sarthur.jpg
+
+
 - name: Shaghayegh Soudi
   is_pi: False
   is_current: False
@@ -359,20 +376,6 @@
     eventually allow us to reveal the timing of specific genomic aberrations and changing mutational process over the course
     of cancer evolution.
   photo: team/photo_shaghayegh.png
-
-- name: Manuela Cruz
-  is_pi: False
-  is_current: True
-  position: MSc student
-  bio: >
-    I perform various computational analyses to assist in the classification of driver genes within Non-Hodgkin’s Lymphoma.
-    By using computational methods designed to recognize recurrently mutated elements, it is possible to identify mutational
-    hotspots within genes of interest. Hotspots, or genomic regions that contain a higher density of mutations than would be
-    expected, can be recognized by analyzing the linear genomic sequence or the 3D structure of the expressed protein.
-    3D structure-based methods can supplement driver gene discovery by identifying regions in the tertiary structure that
-    may mediate protein function and cell survival. I employ both types of methods for hotspot identification and driver
-    gene discovery.
-  photo: team/cruz.jpg
 
 - name: Krishanna Campbell
   is_pi: False
