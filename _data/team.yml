@@ -139,6 +139,13 @@
     quantification strategies for both BL and DLBCL patients across Canada.
   photo: team/kristena.jpg
 
+- name: Dr. Elie Ritch
+  is_pi: False
+  is_current: True
+  position: Bioinformatician
+  bio: >
+    I started my journey into bioinformatics and genomics in the Morin lab and here I am again after completing my PhD. It's just that fun!
+
 - name: Carl-Adam Mattsson
   is_pi: False
   is_current: True
