@@ -139,6 +139,13 @@
     quantification strategies for both BL and DLBCL patients across Canada.
   photo: team/kristena.jpg
 
+- name: Ryan Riley
+  is_pi: False
+  is_current: True
+  position: Bioinformatician
+  bio: >
+    I obtained my MSc in the Gregg Morin lab co-supervised by Ryan Morin and now I am working in Ryan Morin's lab co-supervised by Gregg Morin.
+
 - name: Dr. Elie Ritch
   is_pi: False
   is_current: True
