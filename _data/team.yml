@@ -144,7 +144,7 @@
   is_current: True
   position: Bioinformatician
   bio: >
-    I obtained my MSc in the Gregg Morin lab co-supervised by Ryan Morin and now I am working in Ryan Morin's lab co-supervised by Gregg Morin. 
+    I obtained my MSc in the Gregg Morin lab co-supervised by Ryan Morin and now I am working in Ryan Morin's lab co-supervised by Gregg Morin.
     My lab "claim to fame" is that my hair length exceeds the combined hair length of all the other Ryans and Morins. My interests include long walks on windy beaches at sunset, mantle cell lymphoma and proteomics.
   photo: team/IMG_1330.jpg
 
@@ -185,6 +185,17 @@
     disease, very few studies have been able to examine the genomic landscape of this disease in depth. Coming from an epigenetics
     background, I have a particular interest in understanding the dynamics between the genome and epigenome in cancer.
   photo: team/jasper.JPG
+
+- name: Sierra Gillis
+  is_pi: False
+  is_current: True
+  position: Research Assistant
+  github: https://github.com/gillissierra
+  bio: >
+    I'm part of the Morin Lab to provide bioinfomatic support. I enjoy building pipelines for variant analyses,
+    getting curious about Next-Generation Sequencing and alignment, and applying new techniques to investigate
+    ctDNA. I hope to further my collaborative programming skills while doing so.
+  photo: team/sierra.jpg
 
 - name: Manuela Cruz
   is_pi: False
