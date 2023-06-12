@@ -21,6 +21,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 ## 2022
 
+[Concerning data inconsistencies in Burkitt lymphoma genome study](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016505/486935/Concerning-data-inconsistencies-in-Burkitt)
+
+**Christopher K Rushton, Kostiantyn Dreval, Ryan D Morin**. Blood (Epub 2022)
+
 ## 2021 
 
 [Shared and distinct genetic features in human and canine B-cell lymphomas](https://www.biorxiv.org/content/10.1101/2021.10.14.464277v1)
