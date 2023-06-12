@@ -25,6 +25,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 **Christopher K Rushton, Kostiantyn Dreval, Ryan D Morin**. Blood (Epub 2022)
 
+[Minimal Information for Reporting a Genomics Experiment](https://ashpublications.org/blood/article/140/24/2549/486782/Minimal-information-for-reporting-a-genomics)
+
+**Kostiantyn Dreval**, Paul Boutros, **Ryan D. Morin**. Blood (2022)
+
 ## 2021 
 
 [Shared and distinct genetic features in human and canine B-cell lymphomas](https://www.biorxiv.org/content/10.1101/2021.10.14.464277v1)
