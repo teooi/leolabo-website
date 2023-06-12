@@ -19,6 +19,10 @@ Members of the Morin laboratory indicated in **boldface**
 
 **Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** Biochem Cell Biol. (2023)
 
+[Genetic subgroups inform on pathobiology in adult and pediatric Burkitt lymphoma](https://ashpublications.org/blood/article/141/8/904/486739/Genetic-subgroups-inform-on-pathobiology-in-adult)
+
+**Thomas N, Dreval K,** Gerhard DS, Hilton LK, Abramson JS, Ambinder RF, Barta S, Bartlett NL, Bethony J, Bhatia K, Bowen J, Bryan AC, Cesarman E, Casper C, Chadburn A, **Cruz M**, Dittmer DP, Dyer MA, Farinha P, Gastier-Foster JM, Gerrie AS, **Grande BM**, Greiner T, Griner NB, Gross TG, Harris NL, Irvin JD, Jaffe ES, Henry D, Huppi R, Leal FE, Lee MS, Martin JP, Martin MR, Mbulaiteye SM, Mitsuyasu R, Morris V, Mullighan CG, Mungall AJ, Mungall K, Mutyaba I, Nokta M, Namirembe C, Noy A, Ogwang MD, Omoding A, Orem J, Ott G, Petrello H, Pittaluga S, Phelan JD, Ramos JC, Ratner L, Reynolds SJ, Rubinstein PG, Sissolak G, Slack G, **Soudi S**, Swerdlow SH, Traverse-Glehen A, Wilson WH, **Wong J**, Yarchoan R, ZenKlusen JC, Marra MA, Staudt LM, Scott DW, **Morin RD.** Blood (2023)
+
 ## 2022
 
 [Concerning data inconsistencies in Burkitt lymphoma genome study](https://ashpublications.org/blood/article/doi/10.1182/blood.2022016505/486935/Concerning-data-inconsistencies-in-Burkitt)
