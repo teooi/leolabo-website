@@ -9,11 +9,17 @@ rank: 4
 
 Members of the Morin laboratory indicated in **boldface**
 
+## 2023
+
+[Genetic Subdivisions of Follicular Lymphoma Defined by Distinct Coding and non-coding Mutation Patterns](https://ashpublications.org/blood/article/doi/10.1182/blood.2022018719/495422/Genetic-Subdivisions-of-Follicular-Lymphoma)
+
+**Dreval K, Hilton LK, Cruz M, Shaalan H,** Ben-Neriah S, Boyle M, Collinge BJ, **Coyle KM**, Duns G, Farinha P, **Grande B**, Meissner B, **Pararajalingam P, Rushton CK,** Slack GW, Wong JCH, Mungall AJ, Marra MA, Connors JM, Steidl C, Scott DW, **Morin RD.** Blood (2023)
+
 ## 2021 
 
 [Shared and distinct genetic features in human and canine B-cell lymphomas](https://www.biorxiv.org/content/10.1101/2021.10.14.464277v1)
 
-**Krysta M Coyle**, **Tiana Hillman**, **Matthew Cheung**,  **Bruno M. Grande**, **Kevin R. Bushell**, **Sarah E. Arthur**, **Miguel Alcaide**, **Nicole Thomas**, **Kostiantyn Dreval**, **Stephanie Wong**, **Krishanna Campbell**,  **Ryan D. Morin**. BioRXiv (2021)
+**Krysta M Coyle**, **Tiana Hillman**, **Matthew Cheung**,  **Bruno M. Grande**, **Kevin R. Bushell**, **Sarah E. Arthur**, **Miguel Alcaide**, **Nicole Thomas**, **Kostiantyn Dreval**, **Stephanie Wong**, **Krishanna Campbell**,  **Ryan D. Morin**. Blood Advances (2021)
 
 
 [Prognostic significance of FCGR2B expression for the response of DLBCL patients to rituximab or obinutuzumab treatment](https://ashpublications.org/bloodadvances/article/5/15/2945/476457/Prognostic-significance-of-FCGR2B-expression-for)
