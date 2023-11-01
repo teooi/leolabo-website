@@ -70,7 +70,7 @@
 
 - name: Prasath Pararajalingam
   is_pi: False
-  is_current: True
+  is_current: False
   position: PhD Student
   github: https://github.com/ppararaj
   bio: >
@@ -141,7 +141,7 @@
 
 - name: Ryan Riley
   is_pi: False
-  is_current: True
+  is_current: False
   position: Bioinformatician
   bio: >
     I obtained my MSc in the Gregg Morin lab co-supervised by Ryan Morin and now I am working in Ryan Morin's lab co-supervised by Gregg Morin.
@@ -150,7 +150,7 @@
 
 - name: Dr. Elie Ritch
   is_pi: False
-  is_current: True
+  is_current: False
   position: Bioinformatician
   bio: >
     I started my journey into bioinformatics and genomics in the Morin lab and here I am again after completing my PhD. It's just that fun!
