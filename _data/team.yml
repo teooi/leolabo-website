@@ -197,6 +197,51 @@
     ctDNA. I hope to further my collaborative programming skills while doing so.
   photo: team/sierra.jpg
 
+- name: Vladimir Souza
+  is_pi: False
+  is_current: True
+  position: Computational Biologist
+  github: https://github.com/vladimirsouza
+  bio: >
+    I have a background in Biology (BSc), Applied Statistics (MSc) and Bioinformatics (PhD).
+    Now I am a computational biologist in the Ryan Morin Lab and am contributing to the
+    development of the R package called GAMBLR. I developed an interest in B-cell lymphoma
+    analysis. In my free time, I like outdoor activities like riding my bike and going to
+    the park.
+  photo: team/vlad.jpg
+
+- name: Malki Wijesinghe
+  is_pi: False
+  is_current: True
+  position: MSc student
+  github: https://github.com/MalkiWijesinghe
+  bio: >
+    I'm a Statistics graduate with an interest in developing machine learning
+    algorithms to address biological problems in high-dimensional settings.
+    Currently, my focus is on the development of an advanced predictive machine
+    learning model specifically tailored for classifying main genetic subtypes,
+    DLBCL, FL, BL, and MCL within B-cell lymphoma incorporating cell of origin
+    details, while uncovering new subtypes. I have initiated the development
+    using RNA-Seq data with an underlying vision to expand into a multi-omic
+    approach for a more comprehensive understanding of the biological landscape.
+  photo: team/malki.jpeg
+
+- name: Rachel LaFrance
+  is_pi: False
+  is_current: True
+  position: Undergraduate student
+  github: https://github.com/rl258
+  bio: >
+    I'm a 4th year Molecular Biology and Biochemistry undergrad student in my
+    final semester. Last year, I did a co-op at STEMCELL Technologies in RND
+    on the Pluripotent Stem Cell team. I gained on-the-bench experience,
+    including techniques like flow cytometry. After returning to SFU in the fall,
+    I took Dr. Morin's bioinformatics class and became interested in his research.
+    I am completing a Genomics certificate by working on this directed research
+    project. My current focus is developing a Python script to leverage mutational
+    information from scATAC-seq data.
+  photo: team/rachel.jpg
+
 - name: Manuela Cruz
   is_pi: False
   is_current: True
@@ -277,13 +322,16 @@
 - name: Quratulain Qureshi
   is_pi: False
   is_current: True
-  position: MSc student (Co-supervised by Dr. Tim Audas)
+  position: Research Technician!
   bio: >
-      My research project aims to investigate the mechanisms of regulation of a gene encoding an RNA binding protein, HNRNPH1.
-      HNRNPH1 was found to be recurrently mutated in Mantle Cell Lymphoma (MCL) patients, identified through whole genome
-      sequencing in the Morin lab. Specifically, I am implementing in-vitro assays to detect secondary structures in the
-      HNRNPH1 RNA, hypothesized to play important roles in its regulation. I am also testing whether the introduction of
-      patient derived mutations disrupt these structures and contribute to MCL pathobiology.
+      I am a recent MSc. graduate, co-supervisored by Drs. Ryan Morin and Tim Audas.
+      My research focuses on the impact of dysregulated RNA-binding proteins on the
+      transcriptome of B-cell lymphomas, with a specific emphasis on understanding
+      how these alterations influence the expression of lymphoma drivers. To address
+      these questions comprehensively, I employ a dual approach, combining cell
+      and molecular biology techniques with bioinformatics methods. Additionally,
+      I have a special interest in science communication, aiming to make research
+      more accessible and engaging for a wider audience.
   photo: team/annie.jpg
 
 - name: Dr. Bruno Grande
