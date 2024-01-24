@@ -210,6 +210,25 @@
     the park.
   photo: team/vlad.jpg
 
+- name: Kurt Yakimovich
+  is_pi: False
+  is_current: True
+  position: Bioinformatician (data cowboy)
+  github: https://github.com/kyaki
+  bio: >
+    I got my PhD studying microbial diversity snow algae blooms in the mountains
+    around Vancouver, and named a couple algae species along the way (I will talk
+    your ear off about it). While I miss tracking water bears through the
+    mountains, after grad school I decided that humans are almost just as cool
+    as algae, and so I dove into the wonderfully complicated and whacky world of
+    cancer. I worked as a bioinformatician for two years at the now defunct
+    Imagia-Canexia health developing and clinically validating targeted cancer
+    diagnostic NGS panels (both PCR and capture based), using circulating tumour
+    DNA. I have now joined the Morin Lab to further my experience working with
+    ctDNA by exploring/supporting the work looking at its prognostic value in
+    DLBCL patients who have relapsed.
+  photo: team/kurt.JPG
+
 - name: Malki Wijesinghe
   is_pi: False
   is_current: True
