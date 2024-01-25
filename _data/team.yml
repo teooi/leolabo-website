@@ -261,6 +261,21 @@
     information from scATAC-seq data.
   photo: team/rachel.jpg
 
+- name: Houman Layegh Mirhosseini
+  is_pi: False
+  is_current: True
+  position: Undergraduate student
+  github: https://github.com/HoumanLM
+  bio: >
+    I'm thrilled to be a part of the MORIN Lab's bioinformatic team, where I get
+    to have some fun building functions for the GAMBLR package. My main gig
+    involves working on functions that make analyzing raw data a bit easier.
+    Lately, I've been diving into the world of pyGAMBL, working on an API system
+    to offer an interface for GAMBL results. It's a work in progress, but I'm
+    eager to contribute my part to making data analysis more user-friendly.
+    Grateful for the opportunity to learn and grow with such an amazing team! 
+  photo: team/houman.jpg
+
 - name: Manuela Cruz
   is_pi: False
   is_current: True
