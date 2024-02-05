@@ -276,6 +276,20 @@
     Grateful for the opportunity to learn and grow with such an amazing team! 
   photo: team/houman.jpg
 
+- name: Callum Brown
+  is_pi: False
+  is_current: True
+  position: Undergraduate student
+  github: https://github.com/callumcbrown
+  bio: >
+    I am a 4th year student in Molecular Biology and Biochemistry at SFU, and I
+    have been a member of the Morin Lab team for 8 months. Most of my work has
+    been focused on cloning DNA constructs that we use to study mutations in RNA
+    binding proteins, as well as assisting other members of the wet lab with
+    their research. I plan to continue my research in the Morin Lab by beginning
+    grad school later this year.
+  photo: team/callum.png
+
 - name: Manuela Cruz
   is_pi: False
   is_current: True
