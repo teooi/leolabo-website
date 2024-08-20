@@ -7,19 +7,20 @@ rank: 2
 ---
 
 <div style="margin-bottom: 2em;">
-    <img src="{{ 'team/morinlab_pool_2022_crop.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+<!--     for team photo -->
+<!--     <img src="{{ 'team/morinlab_pool_2022_crop.png' | prepend: site.images_dir | prepend: site.baseurl }}" /> -->
 </div>
 
 <div class="lab-wrapper">
     <ul class="lab-list">
     <!-- Current PIs -->
-    {% for member in site.data.team %}
+<!--     {% for member in site.data.team %}
         {% if member.is_current and member.is_pi %}
             {% if member.name and member.bio %}
                 {% include member.html %}
             {% endif %}
         {% endif %}
-    {% endfor %}
+    {% endfor %} -->
     <!-- Current non-PIs -->
     {% for member in site.data.team %}
         {% if member.is_current and member.is_pi == false %}
@@ -29,7 +30,7 @@ rank: 2
         {% endif %}
     {% endfor %}
     <!-- Non-current (alumni) -->
-    {% assign alumni_size = site.data.team | size %}
+<!--     {% assign alumni_size = site.data.team | size %}
     {% if alumni_size > 0 %}
         <h1 class="post-title">Alumni</h1>
         {% for member in site.data.team %}
@@ -39,6 +40,6 @@ rank: 2
                 {% endif %}
             {% endif %}
         {% endfor %}
-    {% endif %}
+    {% endif %} -->
     </ul>
 </div>
