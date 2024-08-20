@@ -1,15 +1,20 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: Translational lymphoma research in the Leolabo at University of California, San Diego
+lab_name: Leolabo
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Teo Imototar, Leela Noguchi and Leolabo
+institution: UCSD
+email: teoimototar@gmail.com
+        leela.noguchi@gmail.com
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
+  The Leolabo performs cutting-edge lymphoma research using
   a combination of dry lab and wet lab experiments.
-twitter_username: morinryan
+twitter_username: leolabo_
 github_username:  morinlab
+baseurl: ""
+url: "https://github.com/teooi/leolabo-website"
+twitter_username: leolabo_
+github_username:  teooi, leelanoguchi
 images_dir: "/images/"
 
 # Build settings
