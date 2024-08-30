@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: page
-title: GAMBL
+title: Colab Projects
 permalink: /pi/
 toggle: on
 rank: 6
@@ -22,3 +22,4 @@ RAHH
     <img src="{{ 'projects/pathology_gambl.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
+ -->
