@@ -1,7 +1,14 @@
 - name: Image Classification from fMRI Data
   description: >
-    RAHH 
+    We aim to create a model capable of classifying images from fMRI data. 
+    We currently are using OpenNeuro data used in the paper Generic decoding of seen and imagined objects using hierarchical visual features provided by the Kamitani Lab. 
+    The dataset includes brainmasks for the various ROIs used in the experiment as well as functional Magnetic Resonance Imaging (fMRI) and anatomical tissue data from T1 to T2 weighted. 
+    The brain masks range from V1-V4 to higher cortices – a total of 22 ROIs were identified using localizer experiments. 
+    Brain masks for higher cortices were found using retinoscopy experiments. 
+    The lab conducted two main experiments: one on visual stimulation with image presentations and another on visual object imagination.
+    We are currently focused on analyzing data from image presentation through visual stimulation. Our work is accessible via Google Colab notebook. 
+  google_colab_link: https://github.com/teooi/banana-brain-project/blob/main/leolabo_brain_pt_2.ipynb
   funding: 
   collaborators:
   assignees: 
-  photo: projects/TRAF3.png
+  photo: 

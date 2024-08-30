@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Decoding Brain to Visualize Sleep
+title: Projects
 permalink: /projects/
 toggle: on
 rank: 1
 ---
+<h2>Decoding Brain to Visualize Sleep</h2>
 <p>Neuroimaging through functional Magnetic Resonance Imaging (fMRI) has significantly enhanced our understanding of the brain. However, the challenge of visualizing dreams remains unresolved. <em>Leolabo's Decoding Brain to Visualize Sleep</em> project aims to address this challenge by developing an advanced fMRI model designed to decode and visualize cognitive experiences during sleep.
 
 To realize this vision, we will develop a model capable of detecting and interpreting what an individual sees or imagines. This process will be structured in phases, with the model being trained to recognize and interpret objects, letters, and faces.
@@ -31,6 +32,9 @@ Potential applications include enhancing criminal investigations by detecting in
                 <p><b>Assignees: </b>{{ project.assignees }}</p>
             {% endif %}
             <p>{{ project.description }}</p>
+            {% if project.google_colab_link %}
+                <p><a href="{{ project.google_colab_link }}" target="_blank">View Google Colab Notebook</a></p>
+            {% endif %}
         </li>
     {% endif %}
     {% endfor %}
