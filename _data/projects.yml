@@ -1,6 +1,6 @@
-- name: Detecting Objects from fMRI 
+- name: Image Classification from fMRI Data
   description: >
-    RAHH
+    RAHH 
   funding: 
   collaborators:
   assignees: 
