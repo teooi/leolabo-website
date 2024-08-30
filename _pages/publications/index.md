@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Publications
 permalink: /publications/
@@ -17,4 +17,4 @@ Members of the Morin laboratory indicated in **boldface**
 
 [Emerging roles for heterogeneous ribonuclear proteins in normal and malignant B cells.](https://pubmed.ncbi.nlm.nih.gov/36745874/)
 
-**Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** Biochem Cell Biol. (2023)
+**Qureshi QUA**, Audas TE, **Morin RD, Coyle KM.** Biochem Cell Biol. (2023) -->

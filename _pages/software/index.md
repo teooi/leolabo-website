@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Software
 permalink: /software/
@@ -15,4 +15,4 @@ rank: 3
 [RAHH-LCR-modules](https://lcr-modules.readthedocs.io/en/latest/)
 
 
-
+ -->
